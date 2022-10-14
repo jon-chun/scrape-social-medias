@@ -1,0 +1,20 @@
+{
+    "rest_clients.env_vars": {
+        "twitter": {
+            "APP_KEY": "",
+            "APP_KEY_SECRET": ""
+        },
+        "reddit": {
+            "APP_KEY": "",
+            "APP_KEY_SECRET": ""
+        },
+        "instagram": {
+            "APP_KEY": "",
+            "APP_KEY_SECRET": ""
+        },
+        "comments": {
+            "url": "https://www.youtube.com/watch?v=8uyTn4cg8Xc",
+            "time": "3:43"
+        }
+    }
+} 
