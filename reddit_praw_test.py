@@ -6,24 +6,18 @@ import config_reddit
 import praw
 import pandas as pd
 import json
+from user_agent import generate_user_agent, generate_navigator
 
-"""
+user_agent_str = generate_user_agent()
+
 r = praw.Reddit(client_id=config_reddit.CLIENT_ID,
                 client_secret=config_reddit.CLIENT_SECRET,
-                user_agent=config_reddit.CLIENT_USER_AGENT,
-)
-"""
-
-reddit = praw.Reddit(
-    client_id="FpARZIUJZE18NPZf0Wz9Qw",
-    client_secret="NDQ6RKvsSgjGtm1vWPRxdlXxZo8plQ",
-    password="s3cY0ndac0m",
-    user_agent="testscript by u/jonc2000",
-    username="jonc2000",   
+                user_agent=user_agent_str,
 )
 
-# print(config_reddit.CLIENT_ID)
-print(reddit.user.me())
+
+print(config_reddit.CLIENT_ID)
+print(r.user.me())
 
 """
 reddit = praw.Reddit(
@@ -37,6 +31,7 @@ reddit = praw.Reddit(
 print(config_reddit.CLIENT_ID)
 print(reddit.user.me())
 
+"""
 
 # search parameters
 q='bitcoin'
@@ -76,4 +71,6 @@ jsonFile = open("data.json", "w")
 jsonFile.write(json_string)
 jsonFile.close()
 
+"""
+end
 """
