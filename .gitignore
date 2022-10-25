@@ -132,3 +132,4 @@ dmypy.json
 config.py
 config_twitter.py
 config_reddit.py
+config_instagram.py
