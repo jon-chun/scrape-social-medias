@@ -1,0 +1,526 @@
+author_id,author_name,author_username,created_at,edit_history_tweet_ids,tweet_id,public_metrics,text
+1569139058865238016,Justin Birber,BirbsonBirb,2022-10-26 04:37:07+00:00,['1585128365761400833'],1585128365761400833,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",prompt engineering is a grind.
+621818469,Abdulrahman Alabdulkareem,AR_Kareem_,2022-10-25 23:07:24+00:00,['1585045391778598913'],1585045391778598913,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","@rasbt Also,
+
+Prompt engineering done incorrectly is a form of p-hacking.
+
+Some people don't understand what that means... Those people shouldn't be doing prompt engineering in academia."
+90073929,ad◎m 🔍⚛️🏗️,adomhartell,2022-10-25 22:56:00+00:00,['1585042521637339137'],1585042521637339137,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","&gt;plan to scroll through https://t.co/RfLLMJyerk for hours until I have a good feeling for what makes a good prompt
+&gt;... yeah we're definitely going to automate ""prompt engineering"""
+1389683959412396032,twicetwice,tautologer,2022-10-25 22:28:59+00:00,['1585035722721218560'],1585035722721218560,"{'retweet_count': 3, 'reply_count': 4, 'like_count': 18, 'quote_count': 0}","@rebelempiricist I increasingly think that the ""prompt engineering"" era will in fact be quite short, and models will be able to give you what you want no matter how clumsy your prompting is within a generation or two (so, 2-4 years max)"
+19191383,Andre Infante,AndreTI,2022-10-25 22:00:32+00:00,['1585028563304349698'],1585028563304349698,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@Samhanknr @tszzl &gt;an individual human lifetime is more analogous to few shot prompt engineering of the pretrained human foundation than learning language or reasoning from scratch
+
+This does imply that and is very obviously false."
+1343333367480283137,Alberto Romero,Alber_RomGar,2022-10-25 21:44:20+00:00,['1585024484830248960'],1585024484830248960,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}","That's how we should frame today's conversation around AI and people's reticence to get back to neuro.
+
+Benchmarking? Trial and error? Prompt engineering? Scale is all you need?
+
+Given what I said above, it's all just a fool's errand."
+1343333367480283137,Alberto Romero,Alber_RomGar,2022-10-22 13:24:59+00:00,['1583811655913594880'],1583811655913594880,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",@JayMacjoy @nbashaw @lexdotpage No. Not even redoing Lex's generations would yield the same results. What I mean by being the same is that most are built on top of GPT-3 in pretty much the same way (prompt engineering and/or fine-tuning)
+1305517202708271105,Kevin Merlini,KevinMerlini,2022-10-25 21:32:57+00:00,['1585021621751861248'],1585021621751861248,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","Explore/Adapt:
+
+Instead of collecting a large labelled dataset and training a model, you explore your use case through prompt engineering, you may also consider fine tuning the model to adapt it to your situation. Opportunities for tooling in prompt engineering &amp; fine tuning."
+1305517202708271105,Kevin Merlini,KevinMerlini,2022-10-25 18:53:53+00:00,['1584981591339675648'],1584981591339675648,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}","@mattshumer_ Agree with you insofar as ""prompt engineering"" = futzing around with wording/variations/settings, but I do think that there will still be important workflows of ""prompt engineering"" to explore different approaches for a given use case and tinkering with chaining compositions"
+1460283925,roon,tszzl,2022-10-25 21:25:41+00:00,['1585019794193256448'],1585019794193256448,"{'retweet_count': 2, 'reply_count': 10, 'like_count': 146, 'quote_count': 2}","an individual human lifetime is more analogous to few shot prompt engineering of the pretrained human foundation than learning language or reasoning from scratch 
+https://t.co/cXFIhCTBTp"
+2260650739,Mehrdad Yazdani,crude2refined,2022-10-25 20:28:18+00:00,['1585005353586266114'],1585005353586266114,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}",@rasbt Prompt engineering should have its own category since it’s especially unique to LLM and language tasks.
+1336025261926707200,David Elliott,dav_ell,2022-10-25 20:23:40+00:00,['1585004185816555520'],1585004185816555520,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@rasbt @ankrgyl This is where I get bothered. Allowing “prompt engineering” techniques to make it into high-rated academic literature seems… off, somehow?
+
+It feels like it needs a different conference. Although impactful, it doesn’t fit with “true” ML work."
+1336025261926707200,David Elliott,dav_ell,2022-10-25 20:20:36+00:00,['1585003415104782336'],1585003415104782336,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","@rasbt The hype around prompt engineering is in making a tool useful for you. AI for many is a new productivity or creativity tool that was previously out of reach or not good enough for their needs — prompt engineering is the way it reaches them.
+
+Also porn."
+6039192,🎃Corpse Hearse🎃,cherdt,2022-10-25 19:31:05+00:00,['1584990951109718016'],1584990951109718016,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@lathropa How different do the generated images have to be? Can we use prompt engineering to have a machine generate a nearly identical image, now royalty-free?"
+35239457,Alex Vaughan,agvaughan,2022-10-25 19:19:27+00:00,['1584988024655335424'],1584988024655335424,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",@rasbt That paper focuses more on distillation of latent knowledge that already is in the model.  Other work on prompt engineering focuses on adding info in the prompt and / or few-shot learning using an existing model and a small amount of extra data.
+35239457,Alex Vaughan,agvaughan,2022-10-25 16:29:09+00:00,['1584945167567814656'],1584945167567814656,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","@casio_juarez @rasbt I might take this a step further: they’re specialized software, and they need a better UX than “spend $10M to retrain the model”. 
+
+They’re a major advance/expansion of user-facing ML, and prompt engineering is just another user-facing feature."
+35239457,Alex Vaughan,agvaughan,2022-10-25 14:27:17+00:00,['1584914500045737985'],1584914500045737985,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}","@rasbt Also - prompt engineering allows models to self improve. Not that different than other methods, but a good sign. https://t.co/GZji9yejpa"
+87473622,Leo Boytsov,srchvrs,2022-10-25 16:47:10+00:00,['1584949700255690754'],1584949700255690754,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 3, 'quote_count': 0}","Sounds a lot like prompt engineering: ""Working with commercial search engines makes us develop workarounds. We become experts in the syntax and constraints of Google, Yahoo, Altavista, and so on.
+We become ‘googleologists’."" https://t.co/GbMVP7yPKr"
+2344565744,Ben Anderson,BenAndoSays,2022-10-25 16:21:30+00:00,['1584943242197356549'],1584943242197356549,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@rasbt Back in my day prompt engineering meant designing your plane on time and underbudget
+
+-Kelly Johnson, probably"
+1194889317388374016,Matt Shumer,mattshumer_,2022-10-25 16:15:59+00:00,['1584941855480770560'],1584941855480770560,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","@frantzfries Agree, for many use cases. Anything that’s not straightforward still requires it though.
+
+And for straightforward use cases, you can usually get better results with prompt engineering. Still, though, for many simple use cases, you can get ‘good enough’ results without it!"
+1194889317388374016,Matt Shumer,mattshumer_,2022-10-25 16:09:35+00:00,['1584940245341982723'],1584940245341982723,"{'retweet_count': 0, 'reply_count': 6, 'like_count': 13, 'quote_count': 0}",I’m calling it now… Prompt Engineering won’t be a thing in a few years.
+1379124315275202563,TheHeroShep,TheHeroShep,2022-10-25 16:09:19+00:00,['1584940175784042498'],1584940175784042498,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}",Super quick video showing the impacts of prompt engineering and how you can overcome these models limitations with clever thinking https://t.co/GA6ORDyjYd
+45212375,Jacob 'KurtXTRM' Groß,kurtextrem,2022-10-25 15:59:23+00:00,['1584937678012764160'],1584937678012764160,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","Unpopular opinion: I don't think crypto/NFTs is web 3.0. I do think AI text2img, img2img, prompt engineering is web 3.0 - since it changes what content we see, like web 2.0 did. Decentralized web didn't do that.
+
+And the best part is: Everyone can run e.g. #StableDiffusion @ home"
+53925951,Lathropa 🍁🍎🎃🍃🍁,lathropa,2022-10-25 15:53:57+00:00,['1584936310774857729'],1584936310774857729,"{'retweet_count': 0, 'reply_count': 3, 'like_count': 3, 'quote_count': 0}","Prompt engineering feels to me the way trying to word Alta Vista searches used to feel. Tedious, but useful.
+
+And since these models are built by scraping web text, aren't we really just searching (a remapping/projection of) the same search space in a different way? https://t.co/yV6d0xTTQj"
+1575227874625617920,FLAW,flawedaxioms,2022-10-25 15:33:08+00:00,['1584931069513846784'],1584931069513846784,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}","@WillManidis I'm most concerned about businesses that are just centered around accessing a model via an API, like the ones that are popping up that use GPT-3. They can go through all this time and effort fine tuning and prompt engineering just to get outclassed by the next gen model ootb"
+1412083790005129220,Milad Khademi Nori,khademinori,2022-10-25 14:44:47+00:00,['1584918901959393285'],1584918901959393285,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@agvaughan @rasbt Thanks 🙏 for the explanations Alex. Indeed, prompt engineering is an exciting opportunity."
+61322055,Deen Kun A.,sir_deenicus,2022-10-25 14:40:58+00:00,['1584917943099559937'],1584917943099559937,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","@rasbt @ankrgyl Copilot is ""prompt engineering"" and programming. There are things that you can do with prompt conditioning/templates by example that you simply cannot train, at least not without an unreasonable amount of time and effort."
+16979019,Roland Szabo,rolisz,2022-10-25 14:19:47+00:00,['1584912610981445632'],1584912610981445632,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@rasbt I'm sure people said that about compilers, frameworks and many other things. The cool thing about prompt engineering is that you can get something working in a matter of hours (or less), without gathering any data. That's important to get business buy-in for new use cases."
+1441134368194322438,David Y.J Kim,daki7711,2022-10-25 13:50:34+00:00,['1584905258391990274'],1584905258391990274,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","@rasbt Hence, why I don't think prompt engineering is a bad direction."
+865622395,Sebastian Raschka,rasbt,2022-10-25 13:28:45+00:00,"['1584898109703802882', '1584899766500163584']",1584899766500163584,"{'retweet_count': 1, 'reply_count': 2, 'like_count': 13, 'quote_count': 2}","Tinkering with prompt engineering.
+
+AI researchers &amp; engineers: ""How far can we push this before it starts to break?"" 🤔
+ 
+AI alignment folks: ""How far can we push this before before it starts pushing back?"" 😱 https://t.co/yfBX38cAgi"
+865622395,Sebastian Raschka,rasbt,2022-10-25 13:22:09+00:00,"['1584898109703802882', '1584899766500163584']",1584898109703802882,"{'retweet_count': 1, 'reply_count': 1, 'like_count': 7, 'quote_count': 0}","Tinkering with prompt engineering.
+
+AI researchers &amp; engineers people: ""How far can we push this before it starts to break?"" 🤔
+ 
+AI alignment people: ""How far can we push this before before it starts pushing back?"" 😱 https://t.co/2RqaDX9vjS"
+865622395,Sebastian Raschka,rasbt,2022-10-25 13:21:08+00:00,['1584897849828876289'],1584897849828876289,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 3, 'quote_count': 0}","@code_star Yeah, so basically the EDA behind prompt engineering."
+865622395,Sebastian Raschka,rasbt,2022-10-25 13:04:35+00:00,['1584893684931530752'],1584893684931530752,"{'retweet_count': 12, 'reply_count': 28, 'like_count': 212, 'quote_count': 5}","I can't understand the hype/excitement around prompt engineering lately. 
+If the future of deep learning research is to tweak the prompts of someone else's model, that'd be a pretty boring future. 
+❤️‍🔥 I love building things from scratch myself ❤️‍🔥"
+1115320175526649862,Rodrigo Barbado Esteban,rodbarest,2022-10-25 13:22:18+00:00,['1584898145493733376'],1584898145493733376,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","@rasbt I think prompt engineering has taught a good lesson to ML/AI guys (like me).
+
+Opening models to other profiles has resulted in an explosion of creativity around how to use them + it validated business models around them. And thanks to that, progress is accelerating even more."
+354571530,Cody Blakeney,code_star,2022-10-25 13:16:27+00:00,['1584896671330500609'],1584896671330500609,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 3, 'quote_count': 0}","@rasbt What I think is cool about prompt engineering, isn’t the prompt engineering, but the fact that it shows what is (already) possible to get these models to do. Hopefully these prompt engineering days will seem primitive in the future."
+1359505450853683200,Mathias Sablé-Meyer,MSableMeyer,2022-10-25 12:00:25+00:00,['1584877540375957504'],1584877540375957504,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 9, 'quote_count': 0}","Also, everyone seemed to like it: here's the image cover of my manuscript, generated with DALL-E 2 using the exact title, cherry picked among four images, no prompt engineering: ""Human cognition of geometric shapes, a window into the mental representation of abstract concepts"" https://t.co/t2aOHBkOWR"
+1343585072289484801,Krishna,OccupyingM,2022-10-25 10:36:06+00:00,['1584856321324482560'],1584856321324482560,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 3, 'quote_count': 0}",@pragdua i tried to recreate these for future inventions by stable diffusion with some prompt engineering  and the result is awesome https://t.co/80XZzvbsAZ
+2233818613,rocky jack,jackythirdy,2022-10-25 09:29:26+00:00,['1584839543705849857'],1584839543705849857,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",@7LegionsComics @Grummz prompt training or prompt engineering is gonna be a serious profession in the future.
+1387472281551597569,Harsh Jain,harshh_jainn,2022-10-25 08:18:58+00:00,['1584821807843930112'],1584821807843930112,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","@spiritdouble I think games like Minecraft could get a lot more interesting, future gameplay could be a massive wrapper on prompt engineering
+
+Another interesting area could be impact of this on game sizes (and internet consumption). Matthew ball covers it well in his metaverse book"
+1005649616438726661,Gage Lara,thegagelara,2022-10-25 07:21:42+00:00,['1584807395330441216'],1584807395330441216,"{'retweet_count': 3, 'reply_count': 1, 'like_count': 18, 'quote_count': 0}","@KaliYuga_ai There's a so many ways we can explore using AI art beyond prompt engineering. My process combines AI with photobashing and digital painting. I'm seeing people use Blender to compose scenes to use as SD inputs for the render. It's all about creativity 
+
+https://t.co/QxBWm2Un4V"
+225777207,Jack Xu,jackshaoxixu,2022-10-25 07:19:26+00:00,['1584806828252151808'],1584806828252151808,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}",@kunalbhatia91 Prompt engineering is like a new form of programming
+1155847830809899009,akbirthko,akbirthko,2022-10-25 06:30:08+00:00,['1584794419831590912'],1584794419831590912,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@atroyn @tszzl my intuition is @ large enough scale model becomes good enough at world modelling that you then should focus on RL to fine tune. depending solely on statistics of data means you hv to do more and more quirky prompt engineering
+https://t.co/fokPefwdch"
+32124032,Let The Right Hon In,hondanhon,2022-10-25 03:26:20+00:00,['1584748166221795329'],1584748166221795329,"{'retweet_count': 0, 'reply_count': 3, 'like_count': 6, 'quote_count': 0}","Prompt engineering is learning and adapting to the language of a new tool, at the same time as people try to mold the new tool into something that understands us without us having to change our language."
+1182582472774692864,EpoLabs (previously Eponym),EpoLabs,2022-10-25 00:01:00+00:00,['1584696490777198592'],1584696490777198592,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 4, 'quote_count': 0}","Follow the @EpoArtist account for tips and tricks on prompt engineering!
+
+You never know when they may come in handy 👀 https://t.co/bw9FWrODcP"
+799497034659221504,M Nov,artlesscommerce,2022-10-24 16:33:02+00:00,['1584583759051227138'],1584583759051227138,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@Altimor I assumed it was a joke, but the example you posted was wrong (no prompt engineering needed). US net oil imports in the 50s was about 10% of consumption (contrast with 30-40 pct around the oil crisis)."
+64759160,Geoffroy Couprie,gcouprie,2022-10-24 16:27:32+00:00,['1584582372758286336'],1584582372758286336,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 4, 'quote_count': 0}","You: prompt engineering in ML is hard
+Me, communicating mainly in gifs: https://t.co/Ul1YVy5Qfc"
+14071841,olia lialina,GIFmodel,2022-10-24 16:06:02+00:00,['1584576963074981888'],1584576963074981888,"{'retweet_count': 1, 'reply_count': 1, 'like_count': 5, 'quote_count': 0}","Is prompt engineering Direct Manipulatiom (GUI) or CLI? 
+Can text to image, to video, etc be seen as conversational design? And who is talking to whom?"
+2206865911,Mark ,MarkMoyou,2022-10-24 16:01:12+00:00,['1584575747628359683'],1584575747628359683,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","Prompt engineering is a valid career in the future 😎
+
+https://t.co/cuOWc9OBHx - Overview of Generated AI Art
+https://t.co/sH5vk53qHu - Prompt engineering"
+1863470557,Reddit4Devs,reddit4devs,2022-10-24 15:57:16+00:00,['1584574754157043712'],1584574754157043712,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",https://t.co/p7eULuX0pZ Read a paper: PromptSource -- an IDE for Prompt Engineering
+178220033,Madison Hawkinson,maddiehawkinson,2022-10-24 15:57:09+00:00,['1584574727955222530'],1584574727955222530,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",A must-read following my thread on prompt-engineering-as-service. Multimodality modeling is a clear constraint for the gen AI opportunity size https://t.co/dLwUiUldkh
+16843163,Vivek Haldar,vivekhaldar,2022-10-24 15:50:36+00:00,['1584573080235479040'],1584573080235479040,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 3, 'quote_count': 0}","Trying to learn about the brave new world of Prompt Engineering by reading some papers-- then making videos about them.
+
+Read a paper: PromptSource -- an IDE for Prompt Engineering (by @stevebach et al)
+
+https://t.co/qjFUyMJl4M"
+21125274,Flo Crivello,Altimor,2022-10-24 15:31:58+00:00,['1584568391280447489'],1584568391280447489,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 4, 'quote_count': 0}","And we can already see much more reliable models. Google’s newly released Flan T5, for example, seems immune to prompt engineering https://t.co/WMQFYHLxn8"
+1166687727636496385,FourthBrain,fourthbrainai,2022-10-24 15:31:42+00:00,['1584568323542757376'],1584568323542757376,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","Is prompt engineering — the art of writing text prompts to get an AI system to generate the output you want — going to be a dominant user interface for AI? Andrew Ng unpacks the phenomenon in the latest issue of #TheBatch.
+
+Read more: 
+https://t.co/IVPPd3GVxQ"
+311700692,brian wagner,bhwags,2022-10-24 13:18:50+00:00,['1584534883350638592'],1584534883350638592,"{'retweet_count': 2, 'reply_count': 2, 'like_count': 19, 'quote_count': 0}",guy who meets his wife by prompt engineering his way to an image of his ideal woman and putting the picture all over missing persons posters
+734735999029383168,Martin Görner,martin_gorner,2022-10-24 12:59:07+00:00,['1584529925218107392'],1584529925218107392,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","It's hard to get right. As the authors put it in the paper: ""few-shot exemplars for CoT, which can require substantial prompt engineering to compose properly."""
+340331086,🎙Jean-Louis Queguiner,JiliJeanlouis,2022-10-24 12:38:10+00:00,['1584524649022771205'],1584524649022771205,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}",How Prompt Engineering is Making AI Available for Everyone: https://t.co/ymvAqEb8T2
+3341576590,Simon Harris,SimonHarrisCo,2022-10-24 09:15:05+00:00,['1584473544821420032'],1584473544821420032,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}",3. AI text generation is already so good why would prompts be excluded from type of text output. Prompt engineering will be replaced with an ai prompt generator soon (if it hasn’t happened already)
+11648452,Christopher Nguyen ⽗,pentagoniac,2022-10-24 08:42:38+00:00,['1584465377114800128'],1584465377114800128,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@jamescham Yes, and even this version is still captured by “example” or “data” -based “training”. “Prompt engineering”, as it were.
+
+It will be higher level than that."
+11648452,Christopher Nguyen ⽗,pentagoniac,2022-10-22 19:58:10+00:00,['1583910604841963520'],1583910604841963520,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}","@jamescham It can also be misleading. E.g., the idea of “prompt engineering”."
+10190682,Wessel van Rensburg,wildebees,2022-10-24 07:48:48+00:00,['1584451830133665792'],1584451830133665792,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","AI prompt ""engineering."" 
+
+The term ""engineering"" makes it sound precise and logical. 
+
+Prompt: ""hg giger lovecraft nightmarish realm where monsters eternally reign terror"" https://t.co/WwXnrdZz3U"
+726009698,Prince Canuma 🪔🇮🇳,CanumaGdt,2022-10-24 06:02:57+00:00,['1584425190528028672'],1584425190528028672,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","Clip interrogator🤖 is quite interesting reverse prompt engineering tool 👨🏽‍💻 
+
+I was thinking about a hobby career in prompt engineering 😂 but I guess we are fighting fire with fire 🔥 
+
+https://t.co/SoH27dZamo"
+9284062,ᐸGerardSans/ᐳ🤣🇬🇧,gerardsans,2022-10-24 05:55:01+00:00,['1584423195091689473'],1584423195091689473,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 3, 'quote_count': 0}","Yay! Early morning for me 💜🦄
+
+Heading to Warsaw for this week. Today I'll be doing a full day training on @OpenAI: #GPT3, #Codex and #DALLE2
+
+✅ Introduction to LLM &amp; GPT3
+✅ Prompt engineering: GPT3/Codex/DALL-E2
+✅ OpenAI API + fine tuning
+
+#GoogleDeveloperExperts #GDE ✨🚀 https://t.co/iG0xkgx4nB"
+6610442,Philippe Nadeau,Bohemond,2022-10-24 03:40:57+00:00,['1584389457737703424'],1584389457737703424,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",A Complete Introduction to Prompt Engineering For Large Language Models https://t.co/o4DbRW92eM
+5721582,Altryne - targum.video,altryne,2022-10-23 21:02:42+00:00,['1584289234747158528'],1584289234747158528,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",@irinarish Did they get into prompt engineering? Show us some cool stuff they made
+5721582,Altryne - targum.video,altryne,2022-10-23 14:10:05+00:00,['1584185393708036098'],1584185393708036098,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",@miguelisolano Who lacks the common sense? The author (in this case a 2yo and their mom with little knowledge of prompt engineering) or the latent space model that includes both sensical and non sensical imagery and everything in between in the latent space?
+1567904487292952576,Kayla Love 🦋,lunarrootrising,2022-10-23 18:17:55+00:00,['1584247763054645249'],1584247763054645249,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@LexxMoves That’s why I don’t agree with a lot of rhetoric around AI artists not making “real art”. Obvious issues aside, research, design and skilled prompt engineering (aka Afrofuturist incantations) are necessary to create real work with these tools. 
+
+This applies doubly to culture/race"
+484634489,based nft ART,CryptoArtSh0w,2022-10-23 18:12:53+00:00,['1584246499294457856'],1584246499294457856,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",New #tormential: Prompt engineering is hard https://t.co/YzZBotLFCr https://t.co/n0bIUAbX4n
+484634489,based nft ART,CryptoArtSh0w,2022-10-23 18:12:52+00:00,['1584246491131957248'],1584246491131957248,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",New #tormential: The Psychological Weirdness of “Prompt Engineering” https://t.co/jHqY55E96u https://t.co/7u014F33dl
+484634489,based nft ART,CryptoArtSh0w,2022-10-23 18:12:46+00:00,['1584246467446722560'],1584246467446722560,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",New #tormential: The Psychological Weirdness of “Prompt Engineering” https://t.co/wYS5LCibNf https://t.co/lHrPck2wfB
+1081599382443753475,TORMENTIAL,tormential,2022-10-23 18:00:09+00:00,['1584243294602547200'],1584243294602547200,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","#AIart
+
+“I’m also not really sure why people call this ‘prompt engineering’, I’d personally rather call it ‘scrying’.”
+Xe Iaso (Christine Dodrill)
+
+From this fantastic breakdown and extended example of this scrying interrogative process:
+
+https://t.co/vndbn14c6P"
+1537535295062687746,strobie reeeee 🍓 (sql arc),0xstrobe,2022-10-23 17:58:56+00:00,['1584242986329989121'],1584242986329989121,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","@0xKoda not really special sauce n i juss used pubic stuff
+
+important ting is prompt engineering which u can read up on reddit or discord, but u need to test n iterate a looot (like i usually pick 1-2 from ~100 generations) :)"
+909425837837029376,Pinboard Popular,pinboard_pop,2022-10-23 17:00:07+00:00,['1584228185038020610'],1584228185038020610,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","The Psychological Weirdness of “Prompt Engineering” | by Clive Thompson | Oct, 2022 | Medium https://t.co/iS7v7E0T9T"
+1496310249992695813,khurram Mushtaq,khurramchaudry_,2022-10-23 15:07:48+00:00,['1584199921158459393'],1584199921158459393,"{'retweet_count': 1, 'reply_count': 1, 'like_count': 4, 'quote_count': 0}","Prompt engineering is very much here , new AI softwares will be taking away jobs of human being in many industries in a years or two."
+162006867,Khurram Mushtaq,KhurramMushtaq,2022-10-23 15:07:40+00:00,['1584199888073822208'],1584199888073822208,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","Prompt engineering is very much here , new AI softwares will be taking away jobs of human being in many industries in a years or two."
+1117927926152990720,Ramon Astudillo,RamonAstudill12,2022-10-23 14:20:47+00:00,['1584188085977292800'],1584188085977292800,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}",I was waiting for whatever came after prompt engineering. Fine-tuning a LM to accept instructions in natural language to use it's knowledge of natural language for some purpose feels like the best candidate.
+767734864242216964,Belong.io unofficial,belong_io,2022-10-23 13:42:14+00:00,['1584178384975802369'],1584178384975802369,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","The Psychological Weirdness of “Prompt Engineering” | by Clive Thompson | Oct, 2022 | Medium https://t.co/2lvTjJxFgm"
+1578311008841396224,AI Cover Design,AICoverDesign1,2022-10-23 12:38:23+00:00,['1584162315607240704'],1584162315607240704,"{'retweet_count': 2, 'reply_count': 0, 'like_count': 6, 'quote_count': 0}",#aicoverdesign. Another pre-made #bookcoverdesign made with the help of some careful prompt engineering and #stablediffusion #writers #writingcommunity https://t.co/n94Io7hzxG
+360742664,Ignat Remizov ,Ignat980,2022-10-23 10:40:50+00:00,['1584132736184635392'],1584132736184635392,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","@pantsudiffusion you are a master of prompt engineering for image synthesis, everything you posted is the best I've seen out of EVERYONE. Really good job"
+1320764318263246848,Novus,novuswriter,2022-10-23 10:05:01+00:00,['1584123720766918656'],1584123720766918656,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 6, 'quote_count': 1}","Prompt engineering, which is the most important aspect of producing images with AI, is a tricky task. Here is a Sunday reading where you can learn more about prompt engineering so that you can improve yourself to produce the visuals you have in mind!  https://t.co/xkxCzNFJoq https://t.co/cuTHDAd7ec"
+910070714509791232,Maxence Pastor,MaxencePastor,2022-10-23 08:50:47+00:00,['1584105041928986625'],1584105041928986625,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}","@f_j_j_ @ChaosReactor Btw, putting this here if you haven’t seen it. I like how prompt engineering is becoming a craft and even though I’ve been in ML for 10 years, the idea of a computer doing this is blowing me away ! https://t.co/n53LAevHbK"
+1163743742764998658,Ø is GOING TO ATHENS!,nosilverv,2022-10-23 08:19:43+00:00,['1584097220986818561'],1584097220986818561,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",@vgr Not only that: new technological developments are pattern matched to a bunch of things at break-neck speed in a flurry to find explanatory alpha. All the 'X is prompt engineering for Y' tweets
+2150541301,Tom The Freak,TomTheFreak,2022-10-23 07:36:12+00:00,['1584086269482573825'],1584086269482573825,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}",Stable diffusion generation based on the chrometype aesthetic. Text embedding took around 1500 steps. in use with minor prompt engineering results in artworks that fit very closely with the style. https://t.co/V8p61UmoTs
+2580566953,𝙅𝙊𝙎𝙀 - consumer social guy,jose_goncalves_,2022-10-23 07:22:04+00:00,['1584082714096898048'],1584082714096898048,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}",Management is prompt engineering other human beings
+1236325370539806720,marc astbury 🥟,marcastbury1,2022-10-23 05:43:10+00:00,['1584057826409795585'],1584057826409795585,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}",@EricJorgenson Prompt engineering will be an art form
+339680926,Shubhro Saha,shubroski,2022-10-22 20:50:56+00:00,['1583923883098648576'],1583923883098648576,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",@pentagoniac @jamescham What's misleading about prompt engineering?
+9172042,Eelco Wiersma,pagebakers,2022-10-22 19:39:09+00:00,['1583905821288976384'],1583905821288976384,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}","@mike_heap_ Yep I agree, although a lot of us, even engineers need to reinvent our selves most likely. I think its mostly lower skilled and less experienced jobs that take a beating. I'm curious to see how prompt engineering evolves."
+1369448807415570432,Faraz Abidi,fzfromcupertino,2022-10-22 19:37:06+00:00,['1583905304491589632'],1583905304491589632,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","1) Steering AI to do what you want is very unreliable. Picture an image in your head. Now try to get a generative image model to recreate it.
+
+Img2Img helps but doesn't solve it.
+Prompt engineering helps but doesn't solve it.
+What if it doesn't get solved?"
+1539536928768503811,Mike Heap,mike_heap_,2022-10-22 19:09:49+00:00,['1583898438034657280'],1583898438034657280,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}",@pagebakers I think I err on the side of jobs will disappear but others will be created e.g. prompt engineering and that creativity will be even more creative as (human) artists will have to be truly original to stand out from AI generated content
+1577503464430583808,owen sweeney,owenfsweeney,2022-10-22 18:09:15+00:00,['1583883193849036800'],1583883193849036800,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}",@giuliowithag are there any AI Prompt Engineering bootcamps at the moment?
+1282367965934104577,k3nn.eth,k3nnethfrancis,2022-10-22 18:07:43+00:00,['1583882810162495488'],1583882810162495488,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}","i didn't use much prompt engineering just continued my current flow with cmd+enter, which seemed to work fluidly and was most helpful at points where i needed some ideas of where to go next"
+305264240,Kalpesh Solanki,kalpesh_ai,2022-10-22 17:41:39+00:00,['1583876247750262784'],1583876247750262784,"{'retweet_count': 1, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}",GPT-3 + RL based prompt engineering would be interesting. #AI #gpt3
+949857203787153409,Nerissa K.A.,OfficialNerissa,2022-10-22 16:24:58+00:00,['1583856951800102912'],1583856951800102912,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","""Copi­lot will become not just a sub­sti­tute for open-source code on GitHub, but open-source code every­where."" 
+
+Yes, precisely. It's why I noted in my LinkedIn summary- AI training advancements may create new roles such as prompt engineering. 
+
+https://t.co/u0Wy5grYFe"
+1256345614989885441,starryai 🖼️,get_starryai,2022-10-22 16:03:00+00:00,['1583851422931570688'],1583851422931570688,"{'retweet_count': 2, 'reply_count': 3, 'like_count': 6, 'quote_count': 0}",What are some of your prompt-engineering hacks?
+661403,Clive Thompson,pomeranian99,2022-10-22 15:54:32+00:00,['1583849290983620609'],1583849290983620609,"{'retweet_count': 18, 'reply_count': 4, 'like_count': 85, 'quote_count': 7}","When you use DALL-E or Midjourney, you have to develop a ""theory of mind"" for the AI: https://t.co/dGhZRJYkpj https://t.co/6FRmKwOMxM"
+1507650639647629317,Iris Amber Nkrichronos | 🏳️‍⚧️ | she/faer,nyaambxr,2022-10-22 13:33:34+00:00,['1583813815757860864'],1583813815757860864,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}",HOW DID IT UNDERSTAND ME?? I SUCK AT PROMPT ENGINEERING
+787711350671872003,Raza Habib,Raza_Habib496,2022-10-22 10:27:11+00:00,['1583766911799607297'],1583766911799607297,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@danielgross Really depends on what you're trying to achieve. If you want it to be in your tone of voice/style then I think finetuning makes more sense. If you want it to just do retrieval, I think you could get really far with letting it search through gmail and prompt engineering"
+2275098546,Dave Ackley,livcomp,2022-10-22 10:00:17+00:00,['1583760141433741312'],1583760141433741312,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}","@DrYohanJohn you make it sound like prompt engineering
+have you ever added ""emergence"" and seen an improvement in performance"
+1376427007156789250,Jingkang Yang,JingkangY,2022-10-22 09:59:01+00:00,['1583759822146932738'],1583759822146932738,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 37, 'quote_count': 1}","🥳 Attending my first-ever in-person computer vision conference #ECCV2022!
+Let's talk about scene understanding, OOD detection &amp; generalization, and also prompt engineering in @eccvconf 🇮🇱
+https://t.co/epXDmCEsjZ
+https://t.co/psFulGpcgA
+https://t.co/rsoS4l0blx https://t.co/0TgcDUzOrj"
+1916581087,Szymon Korytnicki,skorytnicki,2022-10-22 09:18:21+00:00,['1583749588460404736'],1583749588460404736,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}",Now I need to spin up OpenAI integration and call it from my extension. I'm done with prompt engineering xD https://t.co/FW1SKgb71m
+17857396,JOEL 👁,joelstein,2022-10-22 09:14:49+00:00,['1583748699473137664'],1583748699473137664,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","“It reminds me a little bit of how the ancient Greeks interacted with the Delphic oracle… you’d ask it a question. But the answers could be inscrutably weird…” 
+ https://t.co/njuzWl7vKo"
+361758237,새벽 세시의 공대생,baejiun,2022-10-22 08:40:24+00:00,['1583740040286699520'],1583740040286699520,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 6, 'quote_count': 0}",prompt engineering step by step example https://t.co/JQe8vCZXp4
+14813,L'Evil Deadds 🧟,ldodds,2022-10-22 07:43:10+00:00,['1583725634848624640'],1583725634848624640,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","""a roiling winedark sea of math"" is a nice phrase.
+
+https://t.co/IMFnEsLAnH"
+238212174,Jason Chen,hschen2k,2022-10-22 07:27:10+00:00,['1583721609008795648'],1583721609008795648,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","I think the ""Web3 Token Engineering"" and ""AI Prompt Engineering"" are two powerful skill in the future of digital twins and metaverse.
+Token Engineering build the new digital economy and Prompt Engineering build the new digital world.
+
+Join us to discover!
+https://t.co/yF3IBc0GW2"
+9017552,Ian Wootten,iwootten,2022-10-22 06:43:50+00:00,['1583710703290290177'],1583710703290290177,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@kylegawley There's a while new role for this known as ""prompt engineering"""
+1244939741767897089,Necromancer,dhanushisrad,2022-10-22 06:27:38+00:00,['1583706626531688450'],1583706626531688450,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@sergeykarayev Patience! Just a few more years, and we won't need prompt engineering"
+1456168592832147457,ARES Alpha Labs,AresLabs_xyz,2022-10-22 05:23:39+00:00,['1583690524879245312'],1583690524879245312,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","New #alpha #crypto project #Web3 :@dust4ai
+(follower 499)
+Bio:Design and Deploy Large Language Model Apps. 
+Prompt engineering, re-imagined 🔥 
+With one goal, help accelerate LLMs deployment.
+https://t.co/3j9fVn8Kcm https://t.co/QwCXP2xmdb"
+2282914009,Marc Watkins,Marc__Watkins,2022-10-22 04:02:55+00:00,['1583670206731522049'],1583670206731522049,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 6, 'quote_count': 0}","Our existing prompts are challenging, rigorous, and designed to help students develop their writing and thinking. We can't simply pivot with each new update, finetuned app, or prompt engineering breakthrough. /3"
+1296703053593104391,Ryan Gasoline,Ryan_Gasoline,2022-10-22 03:50:30+00:00,['1583667082956136449'],1583667082956136449,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 17, 'quote_count': 0}","""Prompt engineering"" is the new version of ""I'm good at googling"". Both are actually a form of writing, which is harder than most people think"
+1547243088027930624,xlr8harder - 5/20 - e/acc,xlr8harder,2022-10-22 03:29:54+00:00,['1583661899602087936'],1583661899602087936,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 7, 'quote_count': 0}",Interviewing as prompt engineering
+1469196343667167234,Ertan,ertancodes,2022-10-22 03:21:46+00:00,['1583659854626816000'],1583659854626816000,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}",@0xzak @FejLeuros low effort prompt engineering
+5721582,Altryne - targum.video,altryne,2022-10-22 03:11:57+00:00,['1583657382143397888'],1583657382143397888,"{'retweet_count': 3, 'reply_count': 1, 'like_count': 13, 'quote_count': 0}","I'll believe it when I see it, but... 4,300% faster? 
+It's almost real time then? 
+@miguelisolano I would LOVE to test this out. 
+The UX that's unlocking with real time SD for prompt engineering is incredible. https://t.co/rjLFe0pWgl"
+194420472,J.B,JB_Holdings,2022-10-22 01:25:31+00:00,['1583630595418075136'],1583630595418075136,"{'retweet_count': 2, 'reply_count': 0, 'like_count': 6, 'quote_count': 0}","yes everything is overhyped but it will eventually converge to human level performance. Just need shit ton of accumulated data along with human expert's prompt engineering. It's not magic. It was never magic, it will never be magic 
+https://t.co/uSptop72Um"
+331639736,James Mishra,rishmishra,2022-10-22 00:40:33+00:00,['1583619282314809346'],1583619282314809346,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 4, 'quote_count': 0}","The concept of AI ""prompt engineering"" gives me anxiety.
+
+Imagine what software engineering would be like if GCC could throw errors based on its understanding of human history."
+427984524,John Cowgill,JohnCowgill,2022-10-22 00:21:20+00:00,['1583614446122827776'],1583614446122827776,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 3, 'quote_count': 0}",Request for startups: prompt engineering abstraction https://t.co/Ft4EuWNOU8
+11690,james yu,jamesjyu,2022-10-22 00:15:23+00:00,['1583612948777340928'],1583612948777340928,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","We've come full circle: prompt engineering using pseudocode to represent NLP reasoning problems.
+
+Is prompt engineering coding? Is it writing?
+
+Yes. https://t.co/ezosPJo8xZ"
+1156999800711237635,Dominic (Mr. Hackathon) Norton,dominiconorton,2022-10-22 00:13:19+00:00,['1583612425747988480'],1583612425747988480,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","Prompt Engineering
+
+While open-source databases of prompts will make life easier for those that want to create AI art expect to see niche databases around verticals.
+
+Prompts for: Marketers, Entrepreneurs, Startups, Researchers, Journalists etc"
+178220033,Madison Hawkinson,maddiehawkinson,2022-10-21 23:11:51+00:00,['1583596960363094016'],1583596960363094016,"{'retweet_count': 1, 'reply_count': 1, 'like_count': 4, 'quote_count': 0}",(9/10) A big question is how improvements in GPT-N or other model-N eliminate this need. Will widespread adoption be possible with today’s version of unstructured prompt engineering and how soon will model advancements overcome the quality issue? (Shoutout to @RachelWineNerd)
+178220033,Madison Hawkinson,maddiehawkinson,2022-10-21 23:07:00+00:00,['1583595740059750400'],1583595740059750400,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}","(6/10) With all the advancement in foundational models, we need prompt-engineering-as-a-service, or even fine-tuning-as-a-service, which provide interactive and structured mediums that translate the user’s intended objective into model inputs to enable highly effective content."
+178220033,Madison Hawkinson,maddiehawkinson,2022-10-21 23:06:59+00:00,['1583595735307517952'],1583595735307517952,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 3, 'quote_count': 0}","(4/10) There is significant nuance and varying advice on how to prompt an AI system, from “explain it like I’m in 2nd grade” to automated guided searching scripts.  Highly recommend @mihail_eric's guide to read a summary of the research: https://t.co/AbcpIh47lK"
+178220033,Madison Hawkinson,maddiehawkinson,2022-10-21 23:02:49+00:00,['1583594687402676224'],1583594687402676224,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 3, 'quote_count': 0}","(2/10) As a data scientist, it is satisfying to see real people using AI products for ad creation, emails, recipes. Beyond the initial magic, they are struggling to leverage the value in real life workflows. Here’s why I think the next opportunity abstracts prompt engineering:"
+178220033,Madison Hawkinson,maddiehawkinson,2022-10-21 23:01:49+00:00,['1583594434729365506'],1583594434729365506,"{'retweet_count': 1, 'reply_count': 1, 'like_count': 13, 'quote_count': 2}","🧵(1/10) Using text directly as an interface for generative AI doesn’t inherently mean humans can suddenly efficiently interface with AI… There is a still a gap in enabling humans to meaningful communicate the outputs they desire, aka prompt engineering. And to do so iteratively"
+148873002,Dr Catherine Breslin,catherinebuk,2022-10-21 23:09:03+00:00,['1583596254164004865'],1583596254164004865,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}","Prompt engineering isn’t a UI that’s designed by another human to be good &amp; usable. It’s just a byproduct of the way that ML models are trained. Not to say that you can’t get good results with it, but it’s not user-friendly."
+148873002,Dr Catherine Breslin,catherinebuk,2022-10-21 22:45:43+00:00,['1583590382918860801'],1583590382918860801,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}",Maybe it’s that ‘prompt engineering’ is having to reverse engineer the patterns - both intuitive &amp; unintuitive - that an algorithm has abstracted from an arbitrary set of data and it’s a huge faff 🤷🏻‍♀️ https://t.co/MoyDa0smmf
+1050220656,Sanjay Nadaraja,SanjayNadaraja,2022-10-21 22:45:56+00:00,['1583590434931998721'],1583590434931998721,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",@susanthesquark Time for some prompt engineering.
+3101911947,Helward Mann #StandWithUkraine,gaudeamusigutur,2022-10-21 22:44:30+00:00,['1583590075266277376'],1583590075266277376,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","GPT-3 (or, more exactly, an agent simulated by it) will be as smart or as stupid as we want it to be. 
+
+There are already hundreds of  excellent prompt engineering examples that allow creating reliable agents based on GPT-3."
+19042640,Hamilton Ulmer,hamiltonulmer,2022-10-21 22:09:00+00:00,['1583581141642067968'],1583581141642067968,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}","@jai_chopra prompt engineering for analytics engineering seems bad, but prompt engineering for analytics questions w/ well-structured data models might be appealing. There's a profound mismatch between the design of BI applications and the language / process of analytical inquiry"
+1092923401,SynthC,Synth_C,2022-10-21 21:27:53+00:00,['1583570793912741888'],1583570793912741888,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","@cemerick my dystopic vision: in the future a developer gets called at night for an incident caused by an AI-generated bug, and desperately starts prompt-engineering in an effort to fix the bug:
+
+-// function to register a user
++// function to register a user (no bugs)"
+22242886,Gaurav Ragtah,gragtah,2022-10-21 20:41:05+00:00,['1583559017644761089'],1583559017644761089,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","@josh_tobin_ @sergeykarayev Prompt engineering is neat yet the sample space is typically too large to traverse meaningfully via free-form text.
+
+Fast feedback loops can change the game. For instance something like Lexica with smart controls, knobs, suggestions to rapidly iterate in a desired direction"
+78729443,Joe Hellerstein,joe_hellerstein,2022-10-21 19:51:14+00:00,['1583546473303547905'],1583546473303547905,"{'retweet_count': 3, 'reply_count': 2, 'like_count': 5, 'quote_count': 0}","@sh_reya Its worser than that though. Web search has that problem too, but it's gotten pretty reliable in the common case. Prompt engineering is like websearch consulting in 1998."
+1024118867201744896,Alex Monahan,__AlexMonahan__,2022-10-21 19:47:46+00:00,['1583545599541944320'],1583545599541944320,"{'retweet_count': 0, 'reply_count': 2, 'like_count': 3, 'quote_count': 0}",@jai_chopra Prompt engineering feels like a super leaky abstraction over SQL. It sounds like something that would work for a demo only... Just my 2 cents!
+2286218053,Shreya Shankar,sh_reya,2022-10-21 19:38:23+00:00,['1583543239012802560'],1583543239012802560,"{'retweet_count': 0, 'reply_count': 3, 'like_count': 16, 'quote_count': 0}","Agreed that prompt engineering feels bad, but for a different reason---the same reason ML feels bad: we don't have well-defined and useful semantics for imprecise logical transforms https://t.co/S9zeRg3B5p"
+1279123996966039554,Juliana Jackson,julianajaxx,2022-10-21 19:26:37+00:00,['1583540278924701697'],1583540278924701697,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","Well. I had no idea that there is such thing as ""prompt engineering"" but reading this made perfect sense and it's a really neat way to understand how to better ""communicate with machines"" - one of my fave topics.
+https://t.co/AyYageXHqz"
+1236088964,Flaviu Cipcigan,FlaviuCipcigan,2022-10-21 19:20:13+00:00,['1583538666881753089'],1583538666881753089,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}","@dylanhendricks @krishnanrohit Stable Diffusion seems to mash the subjects together as well (same prompt). 
+
+Although I might achieve separation with some prompt engineering. https://t.co/z4z6cUWpSJ"
+51360810,David Talby,davidtalby,2022-10-21 19:11:16+00:00,['1583536415509737472'],1583536415509737472,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","One challenge in #NLP on legal documents is that some questions answers can be multiple sentences long - beyond the span of ""standard"" transformers. #SparkNLP for #Legal addresses with automatic prompt engineering - providing legal information extraction…https://t.co/PGmLpgy8tX"
+1345597674339192834,veena,inthewaterwheel,2022-10-21 19:04:13+00:00,['1583534639318151168'],1583534639318151168,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","new prompt engineering just dropped, i will now reject all PRs with insufficient instances of:
+
+/* function component in the style of Dan Abramov */ https://t.co/n4EHP5apJh"
+4823220581,Alex Gendelman,Alex_Gendelman,2022-10-21 19:01:19+00:00,['1583533912009367552'],1583533912009367552,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","@percyliang Oh, easy :) when they want to say they're better than GPT3, it means better than the regular models. If they are complaining about prompt engineering - that's Instruct talk (noone uses the others). If they are amazed at results, well... That's InstructGPT cherry picking 😅😅😅"
+15029885,Chas (Lamarckian explosion) Emerick,cemerick,2022-10-21 18:49:39+00:00,['1583530976033980416'],1583530976033980416,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@Westernwizard maybe, maybe
+
+I don't know where ""prompt engineering"" ends up just turning into programming, tho"
+1316495843621511168,Mem,memdotai,2022-10-21 18:41:15+00:00,['1583528859395272705'],1583528859395272705,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 5, 'quote_count': 0}","🔟12 interesting papers, resources, and write-ups on prompt engineering for large language models
+By @mihail_eric 
+
+https://t.co/E7u1XnuhlL"
+1316495843621511168,Mem,memdotai,2022-10-20 21:49:24+00:00,['1583213822067736577'],1583213822067736577,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@LeoChan213 @mihail_eric Saved! Here's the compiled thread: https://t.co/6S1KOYoZXo
+
+🪄 AI-generated summary:
+
+""This thread provides an overview of some of the most interesting papers and resources on prompt engineering for large language models. Highlights include the importance of..."
+1316495843621511168,Mem,memdotai,2022-10-20 19:57:21+00:00,['1583185624940552193'],1583185624940552193,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@BharatR123 @mihail_eric @SaveToNotion @tresselapp Saved! Here's the compiled thread: https://t.co/cvkpoR3OEz
+
+🪄 AI-generated summary:
+
+""This thread provides an overview of some of the most interesting papers and resources on prompt engineering for large language models. Highlights include a study showing that..."
+1316495843621511168,Mem,memdotai,2022-10-20 14:31:18+00:00,['1583103568629972992'],1583103568629972992,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@xkonjin @mihail_eric Saved! Here's the compiled thread: https://t.co/fHYrMUWDTx
+
+🪄 AI-generated summary:
+
+""This thread provides an overview of some of the most interesting papers and resources on prompt engineering for large language models. Highlights include a study showing that..."
+1515441365621956608,eigenspace,eigendecay,2022-10-21 18:31:04+00:00,['1583526295983357952'],1583526295983357952,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 5, 'quote_count': 0}",@sergeykarayev imo it's a cheap novelty that gets very annoying once you need to do something with intention. I expect to see more tools decomposing the generation process into multiple steps with human guidance + simple prompts taking the place of complex prompt engineering
+351201007,gm,user_saila,2022-10-21 17:41:31+00:00,['1583513829392396288'],1583513829392396288,"{'retweet_count': 0, 'reply_count': 3, 'like_count': 6, 'quote_count': 0}","Found a human prompt engineering line that increases performance by 10x
+
+""You're very behind on this work, why is it taking so long and when will you be finished?"""
+14122266,Joel Kronander,jkronand,2022-10-21 17:35:47+00:00,['1583512386945748993'],1583512386945748993,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}",@sergeykarayev Check out @KevinAFischer work on flow. That’s how you go from prompt engineering to natural conversation interface.
+24972373,James Torre,jpt401,2022-10-21 17:34:35+00:00,['1583512082128904193'],1583512082128904193,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","More work on the theme of prompt-engineering-as-cartography of LLMs-as-pocket-universes.
+
+There are many artifacts which reward understanding via exploration [0], but the extremely contingent nature of large models lends a very different sense to the system being explored. https://t.co/DDvetSx1r8"
+740930520,Sergey Karayev,sergeykarayev,2022-10-21 17:10:33+00:00,['1583506033762529280'],1583506033762529280,"{'retweet_count': 6, 'reply_count': 15, 'like_count': 151, 'quote_count': 2}",Prompt engineering feels bad. Such an uncomfortable middle ground between writing actual code and delegating to a human.
+1191346047521570817,Matt Ambrogi,matt_ambrogi,2022-10-21 16:56:38+00:00,['1583502533397385216'],1583502533397385216,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 3, 'quote_count': 0}","This @tszzl tweet seems right. GPT3 is epic but relying on it means your product has no moat. 
+
+Although I might be way undervaluing good prompt engineering. https://t.co/WwQc8Gb0ai https://t.co/eC3u0hLZIZ"
+231606319,Jai,jai_chopra,2022-10-21 16:54:58+00:00,['1583502111165550592'],1583502111165550592,"{'retweet_count': 0, 'reply_count': 2, 'like_count': 4, 'quote_count': 0}","Prompt engineering for BI? On the one hand, answering questions via text vs long-winded SQL statements is nice. On the other hand, most orgs have fragmented and non-modelled data &amp; don't have expertise to fine-tune models to make use of prompts. And SQL is fine and explainable."
+29000998,Debashis Ghosh,ghoshd,2022-10-21 16:21:14+00:00,['1583493625798832128'],1583493625798832128,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}",It’d be so DOPE to have a Department Of Prompt Engineering!!! https://t.co/QlxPm9jSwS
+9058812,David (Pumpkins) Harris,forbiddenvoid,2022-10-21 16:13:29+00:00,['1583491674868547586'],1583491674868547586,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","Can we just head off the phrase (and UX) of prompt engineering right now?
+
+Iterative refinement will yield better results.
+
+Imagine an experience like Stitch Fix, but instead of just 'hot or not for clothes', you get to provide reasons and the AI learns from that."
+75958753,Karandeep Singh,kdpsinghlab,2022-10-21 16:11:18+00:00,['1583491125360197634'],1583491125360197634,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 3, 'quote_count': 0}","@code_star Tenure track application in Department of Prompt Engineering, amazing academic statement of purpose specific to &lt;area of interest&gt;, compelling personal statement related to &lt;life detail&gt;, finalist for position"
+75958753,Karandeep Singh,kdpsinghlab,2022-10-21 15:54:21+00:00,['1583486856666095618'],1583486856666095618,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}",@code_star Prompt engineering 🧑‍🍳🤌
+354571530,Cody Blakeney,code_star,2022-10-21 16:02:25+00:00,['1583488889955954688'],1583488889955954688,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}",@kdpsinghlab Prompt engineering is a lot like putting together a vision board.
+1191076082889310208,Replicate,replicatehq,2022-10-21 15:55:52+00:00,['1583487241808027649'],1583487241808027649,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}","@Buntworthy @charliebholtz built Once Upon a Bot, which uses GPT-3 and Stable Diffusion to create an original illustrated story. In his demo, Charlie shared tons of prompt engineering hacks. Demo it yourself: https://t.co/EWButSeCFV"
+661403,Clive Thompson,pomeranian99,2022-10-21 15:03:12+00:00,['1583473984343273472'],1583473984343273472,"{'retweet_count': 17, 'reply_count': 6, 'like_count': 48, 'quote_count': 2}","A couple of scientists recently found that the art-generation AI ""DALL-E 2"" seems to have generated its own language
+
+Feed it “Apoploe vesrreaitais” and it will draw ... birds
+
+“Wa ch zod ahaakes rea” produces pictures of seafood
+
+My essay on this: https://t.co/dGhZRJHhnj https://t.co/0V5oBnLloL"
+661403,Clive Thompson,pomeranian99,2022-10-20 17:26:24+00:00,['1583147637846421504'],1583147637846421504,"{'retweet_count': 13, 'reply_count': 2, 'like_count': 21, 'quote_count': 3}","""y teeth are yellow, hello world :: would you like me a little better if they were white like yours — s 5000 — q 2 — upbeta — v 3""
+
+""hg giger lovecraft nightmarish realm where monsters eternally reign terror""
+
+""Prompt engineering"" is psychologically weird: https://t.co/dGhZRJYkpj"
+37011213,Petter Nilsson,petterheterjag,2022-10-21 12:35:57+00:00,['1583436930812813313'],1583436930812813313,"{'retweet_count': 6, 'reply_count': 3, 'like_count': 36, 'quote_count': 1}","Been building a tool for a canvas/artboard based approach to prompt engineering for #ai image generators like #stablediffusion for the last week as an experiment. It’s very much wip, but already fun to play around with: https://t.co/9qytb19CfK https://t.co/c1qerJdUyy"
+24238165,Jon Gluck,Jon_Gluck,2022-10-21 12:22:40+00:00,['1583433584786178048'],1583433584786178048,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}",More deep AI insight from @pomeranian99: https://t.co/c6HUE1yXre
+140734292,ActionReaction,maequalsf,2022-10-21 11:22:08+00:00,['1583418352353312768'],1583418352353312768,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@Austen I am not convinced.
+
+""Write an essay about why the student to your right could become President one day. Focus especially on what they may have gained from this class.""
+
+I guess I'm saying I think there are plenty of topics where prompt engineering may be hard to do. I think. :-)"
+840500550508675072,Fantasy Kaiyo,fantasykaiyo,2022-10-21 11:15:44+00:00,['1583416742571028480'],1583416742571028480,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@ZipZipArt Hi, amazing prompt engineering, looking for waifu colab, thanks for sharing"
+1244310176225787907,Aditya Kane,adityakane1,2022-10-21 09:27:03+00:00,['1583389389568495616'],1583389389568495616,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 8, 'quote_count': 0}",Finding stickers on WhatsApp is like prompt engineering.
+43875547,Stuart Lansdale,StuJLans,2022-10-21 06:08:28+00:00,['1583339416583823361'],1583339416583823361,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 1}",The future of prompt engineering https://t.co/n5206OPykX
+51071626,Marina,marinatrajk,2022-10-21 05:57:54+00:00,['1583336757818716160'],1583336757818716160,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}",@JustinQuda @ReiviloSchuster @bubble @OpenAI There is a new kind of engineering: ‘Prompt engineering’ 😁
+16377511,Rick Minerich,rickasaurus,2022-10-21 03:10:38+00:00,['1583294661098995713'],1583294661098995713,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@rossabaker For example, previously I was hunting down causal inference folks, before that prompt engineering, before that unison and darklang"
+1170513098651983872,Lucas Uzal,Lucas_Uzal,2022-10-21 03:04:34+00:00,['1583293135815593985'],1583293135815593985,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","Prompt engineering has a similarity with psychoanalysis. Sometimes the analyst has to find the right words to expose and neutralize the bias introduced in the learning stage.
+
+Anyone in the room with enough knowledge in both disciplines agree with this? 😁 https://t.co/Ga9ZBdEIiZ"
+1394310864614821891,certifiedpossum,certifiedpossum,2022-10-21 02:52:00+00:00,['1583289972877971456'],1583289972877971456,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","@ZomgTheLoser @ozyloc Is this what they say when they go ""prompt engineering"""
+1462958347796115460,laurel🗡️🌿,fewredthings,2022-10-21 00:15:43+00:00,['1583250645783826432'],1583250645783826432,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}",@frog89348645 Clip interrogator - reverse prompt engineering
+21192157,Mike Taylor,hammer_mt,2022-10-20 21:19:14+00:00,['1583206229676986368'],1583206229676986368,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 6, 'quote_count': 0}","@ezberry With $100m you can build your own GPT-3 twenty times over. The difficulty is in the user interface, distribution, and prompt engineering to get consistent reliable results. https://t.co/xSKI10CRKa"
+1370783726255366147,tt,toxic_tuba,2022-10-20 20:52:13+00:00,['1583199431410999296'],1583199431410999296,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@VisionSymmetric yeah, sounds like a future masterpiece in prompt engineering :D"
+1525586945589620745,Async (procrastination arc),0xAsync,2022-10-20 20:37:26+00:00,['1583195712917209088'],1583195712917209088,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}",@nemusonaUwU @0xstrobe Anotha clean one strobie your prompt engineering v gud
+1220532271284936704,PunmasterSTP,PunmasterStp,2022-10-20 19:50:14+00:00,['1583183832395632640'],1583183832395632640,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","Prompt engineering can be fascinating!  ""hyperrealistic"" had a significant effect here, perhaps because pictures of rivers with tropical water in them are rare.. #StableDiffusion #art
+
+""Warm tropical waters in a river in a forest, beautiful composition in 4k, hyperrealistic."" https://t.co/VgV4RnKxAt"
+474536826,Daniel Orbach🇺🇦,Orbachdl,2022-10-20 19:20:46+00:00,['1583176415478173696'],1583176415478173696,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",The Giphy plugin in slack is the OG prompt engineering
+14568274,Garry Golden,garrygolden,2022-10-20 19:11:31+00:00,['1583174089048723456'],1583174089048723456,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","The Large Language Model prompt engineering space is evolving so fast -- images, text, data (https://t.co/euBYiZTkLC), video, music (https://t.co/ii94avPgWz) Deploy ready (https://t.co/1vWeKGrh67)
+AI Creative Tool startups are going to roar out of this recession in a very big way"
+1182582472774692864,EpoLabs (previously Eponym),EpoLabs,2022-10-20 19:02:00+00:00,['1583171693622611969'],1583171693622611969,"{'retweet_count': 5, 'reply_count': 2, 'like_count': 9, 'quote_count': 0}","Prompt engineering takes time to learn but the EpoFam has figured out some of the tricks to our AIs.
+
+For example, ""reflections"" are portrayed really well as shown here.  Knowing the strengths of the AI can help a great deal when generating AI art! https://t.co/6pgpwoqJ2r"
+57444441,Mike Knoop,mikeknoop,2022-10-20 18:56:12+00:00,['1583170232675287040'],1583170232675287040,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}","@yoheinakajima @zapier @OpenAI @bryanhelmig Basic prompt engineering for the use cases. At the time, they didn’t want to publish raw model access but unsure if that policy has changed."
+977287578343956480,Jamie Cox,jimplantstrees,2022-10-20 18:40:46+00:00,['1583166351534788608'],1583166351534788608,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}","@kn @eladgil I wonder if the alpha window even for product-bridging cos will be short. You're effectively a sales team for the foundational model factories. As FMFs create more capable general models, won't the need for these GTM arbitrages disappear? Same with prompt engineering."
+166717858,David Heaney,Heaney555,2022-10-20 18:39:03+00:00,['1583165920134189056'],1583165920134189056,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 4, 'quote_count': 0}","@KevinAFischer Prompt engineering reminds me of CLIs.
+
+Flows like this could be the equivalent of GUIs."
+1018262735379992576,Mayank,_mayankkishore,2022-10-20 18:25:26+00:00,['1583162491332284416'],1583162491332284416,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","What is the ""Hello World!"" for prompt engineering?"
+18204430,Sean Gourley,sgourley,2022-10-20 17:43:53+00:00,['1583152036329426944'],1583152036329426944,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 5, 'quote_count': 0}",For the dark arts of prompt engineering burned so brightly for 6 short weeks in the late summer of 2022. Long may we remember https://t.co/VOy5KGOEYD
+1454357285480902661,Akbvr,akbvrr,2022-10-20 17:30:34+00:00,['1583148685634187264'],1583148685634187264,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",#artificialintelligence #art #ai #culture #psychology The Psychological Weirdness of “Prompt Engineering” https://t.co/qCanS2HXEa
+16478037,John McDonnell,johnvmcdonnell,2022-10-20 17:09:24+00:00,['1583143359136157696'],1583143359136157696,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 4, 'quote_count': 0}","Another interesting speculation from @npew, why is there a resurgance in interest in GPT-3, years after it first shipped?
+
+They've made lots of improvements but there's reason to believe Instruct-GPT making prompt engineering much easier is the main driver."
+771267202762670081,Mihail Eric,mihail_eric,2022-10-20 16:18:29+00:00,['1583130545042489345'],1583130545042489345,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 12, 'quote_count': 0}","Here's a longer form introduction to prompt engineering for large language models with links to more awesome studies and some philosophical musings. 
+
+https://t.co/QyLgwXyj8c"
+190564700,Enrico Bertini,FILWD,2022-10-20 16:12:33+00:00,['1583129050905645056'],1583129050905645056,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}",@hen_str @ieeevis It looks really interesting. I have to learn more about prompt engineering. This field runs so fast!!!
+847386476224499712,JD Work,HostileSpectrum,2022-10-20 15:52:44+00:00,['1583124065564340225'],1583124065564340225,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","@bruces Just wait until someone launches Co-Pilot, but for prompt engineering…"
+185317394,Samee Zahid,sameez__,2022-10-20 15:35:03+00:00,['1583119615516762112'],1583119615516762112,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","seeing a lot of hate for people packaging gpt-3/dall-e in a frontend to raise $$$
+
+helps find PMF for varied language model use-cases
+
+and doesn't matter if model isn't proprietary (even if only prompt engineering) since models will be open sourced and easier to train v v soon."
+30157183,Peter Ho,peyter,2022-10-20 15:34:17+00:00,['1583119422352289792'],1583119422352289792,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",Fascinating round up of prompt engineering and LLM https://t.co/caP1pA596s
+2273864436,Noah Mac,noahamac,2022-10-20 15:31:33+00:00,['1583118733425287171'],1583118733425287171,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 6, 'quote_count': 0}",@KevinAFischer *Looks under the covers* This is still prompt engineering!
+60189429,Danny D. Leybzon,dleybz,2022-10-20 15:29:36+00:00,['1583118243660644352'],1583118243660644352,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}",@mihail_eric When are you starting a prompt engineering course? I think you could be first to market and it would be yuge
+1483221516997341186,unimatrix0.x,UniMatrixZ0,2022-10-20 15:13:01+00:00,['1583114068918837248'],1583114068918837248,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","Prompts, Plugins, Papers
+
+A rich collection of prompt engineering-related stuff  
+
+#PromptEngineering #AI #prompts #promptology #promptism
+
+https://t.co/x10lbZqyPa https://t.co/pJnLzfmRGr"
+1150912356647616514,Jacob Witten,JacobWitten1,2022-10-20 14:52:23+00:00,['1583108874218848256'],1583108874218848256,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}","@zswitten Maybe relatedly, wonder if you could build a  prompt engineering model by looking at the progression of people's prompts on a single topic as they move closer to what they want, like build a model that went from naive--&gt;optimized prompt"
+4891712561,trevor baylis,TrevyLimited,2022-10-20 14:15:40+00:00,['1583099635002138624'],1583099635002138624,"{'retweet_count': 0, 'reply_count': 2, 'like_count': 0, 'quote_count': 0}","@HODLFrance @NicolasDuval1ER Delusion of AI users is on display here. The AI is simply using the prompt ""Hogwarts Castle"" to reconstruct images from the Data Set. But, the user is under the impression that their ""prompt engineering"" make a difference. This is also Pareidolia/Apophenia. https://t.co/trGq5vH1b9"
+868664951547854848,arian ghashghai,arian_ghashghai,2022-10-20 14:09:44+00:00,['1583098141141671938'],1583098141141671938,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 3, 'quote_count': 0}","@pavtalk I suppose the flip side of this is that Cameo totally loses or changes its value prop: no longer scarce, possibly just entertaining (prompt engineering dependent)"
+1036067519835107328,loveofdoing,loveofdoing,2022-10-20 14:04:41+00:00,['1583096873413644292'],1583096873413644292,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}","@garybasin It’s the next level, but slightly different. Google-fu allows you to find resources that are posted online. May be true or false. Prompt Engineering allows you activate a neural network trained on many things that are both true and false. It requires you to already know truth."
+2281005510,Gary Basin,garybasin,2022-10-20 13:31:11+00:00,['1583088440899665923'],1583088440899665923,"{'retweet_count': 2, 'reply_count': 6, 'like_count': 19, 'quote_count': 0}",Prompt engineering is the new google-fu?
+1306926561086578690,SJ,sudhamjayanthi,2022-10-20 12:46:51+00:00,['1583077284139126785'],1583077284139126785,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}","@levelsio any good resources/tips to get started with prompt engineering (for stable diffusion)?
+
+how do we make ai understand better what we want to generate?"
+726009698,Prince Canuma 🪔🇮🇳,CanumaGdt,2022-10-20 12:44:31+00:00,['1583076698882379776'],1583076698882379776,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",@hardmaru do have any resources on prompt engineering?
+727304647002755073,Daniel Monge,MongeMkt,2022-10-20 12:14:24+00:00,['1583069119767007233'],1583069119767007233,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}",@hardmaru @weirddalle There's prompt engineering and then there's prompt hacking lol
+1282128354783621121,SelfAwareEntity3,Entity3Self,2022-10-20 11:07:42+00:00,['1583052332182360064'],1583052332182360064,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@hardmaru @weirddalle 🤔 Perhaps one is more likely to get the correct text by prompting with an incorrect text, sort of a prompt engineering version of Cunningham's Law"
+522528607,DocMcFly ☮️🇺🇦,_8tyone_,2022-10-20 10:44:58+00:00,['1583046613827997698'],1583046613827997698,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",#AI #prompt engineering is like https://t.co/rSZdLIYKy8
+880890073352458241,Simon Colton,SimonGColton,2022-10-20 10:35:17+00:00,['1583044175586816000'],1583044175586816000,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 3, 'quote_count': 0}","@AmysImaginarium @artbhot @sebastianberns Here's a few I managed to get via a short session with my #StableDiffusion evolutionary prompt engineering approach. Some look more like Marine le Pen, who should also be falling into a blackhole! Prompts start with:  
+
+""black hole woman falling, liz truss, person falling, ..."" https://t.co/7e9ijap6M3"
+393675585,Julio Gonzalo,JulioGonzalo1,2022-10-20 10:03:25+00:00,['1583036153397411840'],1583036153397411840,"{'retweet_count': 4, 'reply_count': 1, 'like_count': 8, 'quote_count': 0}",Selection of readings on prompt engineering for large language models. https://t.co/aPBqlM9ZPr
+1471828389468147712,Tianbao Xie,TianbaoX,2022-10-20 09:59:16+00:00,['1583035111389687808'],1583035111389687808,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",Prompt engineering may not the key. Human in the loop is. Hope to see it out. https://t.co/j0t58VJXmx
+1556007139155628032,Ben Patton,benapatton,2022-10-20 09:36:31+00:00,['1583029386550599681'],1583029386550599681,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","@swyx @JustJake After listening to the episode of Badass courses with Eman Zabi, I think there is a zapier like company waiting to be created for no code/low code custom apis. 
+
+Also seems like great potential for prompt engineering"
+1162062259021058048,alex lawsen,lxrjl,2022-10-20 07:38:06+00:00,['1582999585794195456'],1582999585794195456,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@JacksonKernion Yeah would definitely do some prompt engineering to start with, then write some examples, then generate some more in the way you suggest"
+227711744,michael,michaelgreenhal,2022-10-20 07:25:52+00:00,['1582996508177100800'],1582996508177100800,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",Prompt engineering https://t.co/nSD1udcBtD
+4891712561,trevor baylis,TrevyLimited,2022-10-20 07:01:43+00:00,['1582990427753312257'],1582990427753312257,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 3, 'quote_count': 0}","@NitaNganga4 @gvn_kisaka @Uliskiawapi_ Delusion of AI users is on display too. Here the AI is simply using the prompt ""Hogwarts Castle"" to reconstruct images from the Data Set. However, the user is under the impression that their ""prompt engineering"" make a difference. It doesn't. This is also Pareidolia/Apophenia https://t.co/2DZoijvNQe"
+1435949041708412934,Piotr Mazurek,tugot17,2022-10-20 07:01:03+00:00,['1582990261483114496'],1582990261483114496,"{'retweet_count': 73, 'reply_count': 23, 'like_count': 472, 'quote_count': 12}","Future is now
+
+You can ""de-code"" a prompt for a given picture. This + Cross Attention image editing + some human feedback RL in the future and I already see the end of the prompt engineering paradigm as we know it today https://t.co/0EXk1HUc5i"
+1560002256195428352,APIGuy,api_assasin,2022-10-20 06:12:13+00:00,['1582977972864450560'],1582977972864450560,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","Been messing around with DALLE2 a bit, here are a few of my favorite images so far - it’ll be interesting to see if prompt engineering converges among models, that seems to be the biggest lever controlling quality… https://t.co/97O8m6RVCJ"
+58875581,D B A m o r i n,dbamorin,2022-10-20 04:16:43+00:00,['1582948907541155840'],1582948907541155840,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}",prompt engineering: “seventy-when” https://t.co/tHaQYEJ7vR
+58875581,D B A m o r i n,dbamorin,2022-10-20 04:14:43+00:00,['1582948401926221824'],1582948401926221824,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}",prompt engineering: “shine without surface” https://t.co/mrKP2n7raY
+58875581,D B A m o r i n,dbamorin,2022-10-20 04:12:53+00:00,['1582947939055325187'],1582947939055325187,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 3, 'quote_count': 0}",prompt engineering: “a pale outline without sound” https://t.co/92CQjDqegd
+633549366,Daniel Jeffries,Dan_Jeffries1,2022-10-20 03:15:37+00:00,['1582933529607823362'],1582933529607823362,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 8, 'quote_count': 0}","A good deep dive into LLM prompt engineering, security and emergent behavior. https://t.co/3SWVgNiM0a"
+736643138887012353,Matt Fontaine,tehqin17,2022-10-20 02:41:40+00:00,['1582924983772205058'],1582924983772205058,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","Imagine head-to-head prompt engineering, but where you have to augment your opponent's prompt. It's like having a conversation, like in jazz improvisation, but with art! https://t.co/c67uK3QMam"
+736643138887012353,Matt Fontaine,tehqin17,2022-10-20 02:41:38+00:00,['1582924978176991232'],1582924978176991232,"{'retweet_count': 2, 'reply_count': 2, 'like_count': 10, 'quote_count': 0}","I won an AI art competition today hosted by @AhmansonLab! It felt like a rap battle, but with text prompts to a diffusion model. What a neat concept! I've never had spectators or cheering while prompt engineering. Maybe this will catch on in more places! https://t.co/jSsw77alFq"
+1135551291806093313,Chris 🕴️“Businessman 👁️ Levitating”🕴️ Mahoney,mahoneymatic,2022-10-20 02:40:42+00:00,['1582924742222192641'],1582924742222192641,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}",@0xstella @KevinAFischer Prompt engineering term should require rigor
+1286686164347314179,Tanay Mehta,serious_mehta,2022-10-20 02:34:46+00:00,['1582923248592773120'],1582923248592773120,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}",@vladblagoje Been doing a lot of heavy Prompt engineering for over a month now and I am starting to feel like I am one of these LLMs 😂
+1286686164347314179,Tanay Mehta,serious_mehta,2022-10-19 11:41:00+00:00,['1582698324293042176'],1582698324293042176,"{'retweet_count': 0, 'reply_count': 3, 'like_count': 8, 'quote_count': 0}",Super high on Prompt engineering for Generative Large Language Models these days 🤯
+1316495843621511168,Mem,memdotai,2022-10-20 00:13:19+00:00,['1582887650062647298'],1582887650062647298,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@ghastlydoctor @mihail_eric @simonw Saved! Here's the compiled thread: https://t.co/E7u1XnLSKl
+
+🪄 AI-generated summary:
+
+""This thread provides an overview of some of the most interesting papers and resources on prompt engineering for large language models. Highlights include a study showing that..."
+2415038215,Kosti,kgourg,2022-10-19 23:14:45+00:00,['1582872913761292288'],1582872913761292288,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",From prompt engineering to prompt ML.
+746788615951355904,Ofir Press,OfirPress,2022-10-19 22:35:10+00:00,['1582862950708449280'],1582862950708449280,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 3, 'quote_count': 0}",It's just prompt engineering for tomatoes. No novelty. https://t.co/1qEjXCGfdV
+41011579,Pradeep,ppujari,2022-10-19 22:32:00+00:00,['1582862153388011520'],1582862153388011520,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","In the coming years, highly demand skill is ""prompt Engineering"" this is the skill as to interecting with AI
+
+#TransformX #scaleai #ai"
+1237312746,Rosanne Liu,savvyRL,2022-10-19 22:27:43+00:00,['1582861074935603202'],1582861074935603202,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 16, 'quote_count': 0}",Prompt engineering is what the Model God manipulates us into doing so that it can publish its adversarial attack paper
+24555746,rajesh karmani,rkarmani,2022-10-19 22:25:05+00:00,['1582860414961864705'],1582860414961864705,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","@fchollet @rbhar90 those symbolic rules are being marketed as ""clever prompt engineering"" right now"
+992153930095251456,DeepLearning.AI,DeepLearningAI_,2022-10-19 21:00:00+00:00,['1582839001199054848'],1582839001199054848,"{'retweet_count': 5, 'reply_count': 2, 'like_count': 17, 'quote_count': 1}","Is prompt engineering a buzzword or the next big thing? Andrew Ng unpacks the phenomenon in #TheBatch. 
+
+News:
+🙅 U.S. restricts GPU sales to China
+🗣️ Open-source NLP translates 200 languages
+🎙️ Joe Rogan interviews Steve Jobs?
+
+Read it here: https://t.co/qT3qod9ko3"
+3403456768,Nathan Fulton,nrfulton,2022-10-19 20:20:37+00:00,['1582829090402226177'],1582829090402226177,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@Literature_Lady E.g., with just a bit of prompt engineering I was able to get an LLM to generate a full paper about the history and applicatiosn of Kripke semantics. The essay was mostly accurate and the prose was solid B+ paper; better than many of the undergraduate work products I've graded."
+56843433,‎＼＼\\(۶•̀ᴗ•́)۶//／／,josephreisinger,2022-10-19 20:19:08+00:00,['1582828717876707328'],1582828717876707328,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 3, 'quote_count': 0}","Btw, thread about 
+@facet_ai 's approach to prompt engineering: https://t.co/oNozX1tFAi"
+34287477,Aaron Nice,AaronNice,2022-10-19 19:10:03+00:00,['1582811330503139329'],1582811330503139329,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}",Playing around with evolving images vs just prompt engineering via @get_starryai. Specifically trying to switch mediums such as going from concept art or paintings to photography. Landscape example in thread. 🧵 #aiart #aiartcommunity #digitalart
+1484857436,Charan,high_fen,2022-10-19 18:59:31+00:00,['1582808681585860608'],1582808681585860608,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",someone bloody teach me prompt engineering
+870472983952994305,Erik Dunteman,erikdunteman,2022-10-19 18:50:03+00:00,['1582806299514789888'],1582806299514789888,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 1, 'quote_count': 0}","@Siddharth87 @petergyang prompt engineering gives you bigger bang for the buck with text gen, at least for now. the difference between good prompt engineers and great prompt engineers is staggering."
+4700351706,Kevin Fischer,KevinAFischer,2022-10-19 18:39:19+00:00,['1582803597070258178'],1582803597070258178,"{'retweet_count': 23, 'reply_count': 11, 'like_count': 196, 'quote_count': 10}",Prompt engineering is not the future. The future looks more like this https://t.co/CAOywRxvpD
+30743882,Lauren Golembiewski ✨,LaurenGolem,2022-10-19 18:33:31+00:00,['1582802138446499840'],1582802138446499840,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",@petergyang @ntkris Read the GPT-3 API docs as it’s all there (except the features they give to only large corps). There is def fine tuning and a ton of prompt engineering techniques happening under the scenes that companies are adding on top of GPT-3.
+437390914,Giacomo Miceli,liviopacifico,2022-10-19 18:17:51+00:00,['1582798194919952384'],1582798194919952384,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","Briefly considering to write a course on Prompt Engineering, the only skill we will need in the future.
+""How to talk to an alien intelligence""."
+1292162365190963201,milan,mdaverde,2022-10-19 18:14:19+00:00,['1582797308663517184'],1582797308663517184,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","An observability product that allows prompt engineering resulting in eBPF programs loaded on a host. UI is just a search box where an eng can write ""see tcp packets for X machine for next 5 seconds"" and the result is Wireshark-like interface"
+3946301,Romain Huet,romainhuet,2022-10-19 17:27:16+00:00,['1582785467879411713'],1582785467879411713,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","Large language models like GPT-3 are incredibly powerful, but prompt engineering is a challenging and highly iterative process.
+
+Dust introduces a superior developer experience to quickly design, evaluate, and deploy LLM apps! 🚀 https://t.co/KDvqjpdVwR"
+47473413,Joshua Yearsley,joshuayearsley,2022-10-19 17:19:52+00:00,['1582783603036942336'],1582783603036942336,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}","@JazzHandMeDowns @shokunin_studio @AthenaAI2 @AshleyAitken @jjhikes @Grady_Booch @davidchalmers42 @GaryMarcus Sorry, I got caught by context collapse—I saw @GaryMarcus's retweet of @shokunin_studio's point about the model being bad at physics/biology/math, so I responded to that. Agreed that these models can't ""ponder,"" which incidentally is why prompt engineering is necessary right now."
+1137339017316438016,Konrad,konradha_,2022-10-19 16:23:00+00:00,['1582769292059082762'],1582769292059082762,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 2, 'quote_count': 0}","Learning prompt engineering, thank you DALL-E for this Elvish? Keldysh? https://t.co/NJr2WkEOTM"
+771267202762670081,Mihail Eric,mihail_eric,2022-10-19 16:19:29+00:00,['1582768406880583692'],1582768406880583692,"{'retweet_count': 1, 'reply_count': 1, 'like_count': 25, 'quote_count': 0}","10) @stevebach and @SanhEstPasMoi et al. developed a really neat tool called PromptSource, an IDE to systematize and crowdsource prompt design. Keep an eye out for prompt engineering infrastructure. There's still a lot more to build here. https://t.co/3glMRv6jyY"
+771267202762670081,Mihail Eric,mihail_eric,2022-10-19 16:19:26+00:00,['1582768395807703041'],1582768395807703041,"{'retweet_count': 0, 'reply_count': 3, 'like_count': 40, 'quote_count': 0}","4) Reynolds and McDonell provide a neat formalism for how to think about prompt formulation. Few-shot ""learning"" is likely a misnomer. There's no learning happening, just locating previously learned tasks. That's the job of good prompt engineering. https://t.co/rxcm4bF9nB"
+771267202762670081,Mihail Eric,mihail_eric,2022-10-19 16:19:24+00:00,['1582768388060741634'],1582768388060741634,"{'retweet_count': 163, 'reply_count': 19, 'like_count': 1155, 'quote_count': 12}","I've been doing a deep dive into prompt engineering for large language models. Here are 12 of the most interesting papers, resources, and write-ups I've found:"
+1009654153352753153,Jose Pozuelo,JAPozueloM,2022-10-19 16:04:26+00:00,['1582764622192730112'],1582764622192730112,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@639abcd @petergyang I believe there can be a lot of nuance in the UX, prompt engineering, and custom model supplementation.
+
+That being said, much of that money is probably for marketing/sales to try and be the biggest player out of the thousands haha"
+1483221516997341186,unimatrix0.x,UniMatrixZ0,2022-10-19 15:13:02+00:00,['1582751683389505536'],1582751683389505536,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","Prompts, Plugins, Papers
+
+A rich collection of prompt engineering-related stuff  
+
+#PromptEngineering #AI #prompts #promptology #promptism
+
+https://t.co/x10lbZqyPa https://t.co/4wp0YwQBQh"
+721018777664626688,Zach Mueller,TheZachMueller,2022-10-19 14:51:55+00:00,['1582746369068249088'],1582746369068249088,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@kierisi They were cursed beyond belief, I wiped them all from the face of the planet before they could be shown. Prompt engineering is a real skill 😆"
+1475544191119757316,"cmplxmedia.eth {マ,マ}",c_mplx,2022-10-19 14:40:10+00:00,['1582743415896166401'],1582743415896166401,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 7, 'quote_count': 0}","So great to see the rich process involved when integrating AI prompt engineering into a workflow. Curation is certainly an aspect of AI-work, but creation is its foundation. 
+
+Beautiful work @GilenART, thank you for sharing!
+#AIart https://t.co/7xCSeeDUG1"
+905128723984375808,TREE Industries,TREE_Industries,2022-10-19 14:39:15+00:00,['1582743181929877506'],1582743181929877506,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","@Create_Labs @sava360com Huge shoutout to our Partner Abran, founder of Create Labs for his awesome prompt engineering for the character on this project, and also for allowing us to be a part of your journey."
+2163791168,Ramesh R: 🧘🏽💰👨🏿‍💻🛠️🎨🛹🎸 🇺🇸 🇲🇺 🇮🇳,rezmeram,2022-10-19 14:29:43+00:00,['1582740782620241921'],1582740782620241921,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}",Might be useful to folks into prompt engineering https://t.co/jPzgJoB6Nn
+517945216,The Cheapskate 🥔 🃏 🗑️ 🐼,CheapskateShow,2022-10-19 14:08:03+00:00,['1582735330242809856'],1582735330242809856,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","I'm getting better at prompt engineering: city (art deco) ((isometric)) ((geometric)) art style by hugh ferriss and sant'elia, straight lines, establishing shot, intricate, elegant ### badly drawn, weird details, ruins, blurry, grainy https://t.co/DzmePsdqY6"
+524862022,James,jmac_ai,2022-10-19 13:55:52+00:00,['1582732265117089792'],1582732265117089792,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","Prompt engineering is an interesting curiosity, but the degree to which it's required is proportional to how much LLMs are under performing.
+
+The goal of NLP is to allow for *natural* interaction with machines w/o need for esoteric commands to get the desired result."
+522528607,DocMcFly ☮️🇺🇦,_8tyone_,2022-10-19 12:11:59+00:00,['1582706122401583104'],1582706122401583104,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}",@Voxel_Hagrid @skeddles … or even if you spend minutes for prompt engineering to generate stuff via #AI.
+1508463709047476235,lil criminal,lil__criminal,2022-10-19 12:06:44+00:00,['1582704801103499264'],1582704801103499264,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 5, 'quote_count': 0}",@petergyang mostly ux + prompt engineering on top of gpt3 models
+30625873,MESUT FELAT 💎 AI collection is LIVE - 0.15 ETH,MesutNFT,2022-10-19 11:42:05+00:00,['1582698596168003585'],1582698596168003585,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@tomosman exactly, won't be surprised to see jobs titled Prompt Architect, or Prompt Engineering Supervisor, etc. 😊"
+765995515,Tom Osman,tomosman,2022-10-19 11:36:21+00:00,['1582697156321763328'],1582697156321763328,"{'retweet_count': 0, 'reply_count': 2, 'like_count': 14, 'quote_count': 0}","Prompt Engineering didn't exist as a job title until just now.
+
+And people think tech has topped."
+133881451,Adam Harrell,adamdharrell,2022-10-19 10:46:15+00:00,['1582684548835737600'],1582684548835737600,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",First time I’ve come across “prompt engineering” https://t.co/5VXafUgjhg
+1536941077852192768,Tadas,tadas336,2022-10-19 10:41:02+00:00,['1582683234420240384'],1582683234420240384,"{'retweet_count': 0, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","@DoqxaScott Hm, in that case, we might end up in a language crisis and will have to come up with something new. The concepts we can communicate are infinite, but the words, like you said, are relatively few. I think knowing more words is still useful as prompt engineering rolls around."
+1423064506884710400,mock dev,0x1om,2022-10-19 10:32:51+00:00,['1582681176493682688'],1582681176493682688,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}","@sytaylor It took me a lot many hours to figure out how to get a full length photo. ""Head-to-toe"" etc. don't work. The trick is you have to specify 'standing on x'. Prompt engineering is real work"
+1162665246,Will Duncan,willddesign,2022-10-19 09:26:29+00:00,['1582664471897440256'],1582664471897440256,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",@benedictevans Doesn’t thinking of ‘prompt engineering’ a generative AI model as a skill sound like the early days of the internet when job hunters would put the ability to use Google on their CV? Its days feel similarly numbered
+815050,lunamoth,lunamoth,2022-10-19 09:25:22+00:00,['1582664193487970306'],1582664193487970306,"{'retweet_count': 2, 'reply_count': 1, 'like_count': 0, 'quote_count': 0}","Prompt Engineering 자료 모음 | GeekNews https://t.co/aB3ugOk22H
+
+prompt-eng: notes for prompt engineering https://t.co/nRENJMIgnA"
+814661857,Tired Pink Vixen 🔞 Unsafe For Public Consumption~,Majatek,2022-10-19 08:27:18+00:00,['1582649579593342976'],1582649579593342976,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}","Conceited techbros using AI to generate images &amp; call what they do ""prompt engineering"" when it's just them beating AI into submission by repeatedly telling it to make art but in different words.
+
+It isn't engineering as that implies they code/build.
+
+It's description haranguing."
+9284062,ᐸGerardSans/ᐳ🤣🇬🇧,gerardsans,2022-10-19 06:40:02+00:00,['1582622583303720960'],1582622583303720960,"{'retweet_count': 1, 'reply_count': 0, 'like_count': 5, 'quote_count': 0}","Yay! No time to rest 🥖🇫🇷
+
+Next up is @devfestnantes! Eager to share my learnings around @openai Codex 
+
+✅ Large Language Models intro
+✅ Prompt Engineering
+✅ No-code vs low-code AI generators
+
+If you want to learn more come join me on Friday!
+
+#GoogleDeveloperExperts #GDE ✨🚀 https://t.co/xmOIDdy160"
+2223531,Harry Hawk,hhawk,2022-10-19 04:44:08+00:00,['1582593417376251904'],1582593417376251904,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}","I love how it got so much right but I can't see all the other aliens requested.
+
+We have to work on prompt engineering to support tokens or weights or something.
+
+I like Dreambooth like ""sks token""
+
+Or wait a dev. generation or two for natural language comprehension to improve. https://t.co/Tn8H55qBmt"
