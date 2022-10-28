@@ -4,6 +4,7 @@ import time
 import pandas as pd
 import tweepy
 import config_twitter
+from datetime import datetime
 
 consumer_key = config_twitter.API_KEY #Your API/Consumer key 
 consumer_secret = config_twitter.API_KEY_SECRET #Your API/Consumer Secret Key
@@ -37,8 +38,9 @@ try:
     
     #Creation of Dataframe
     tweets_df = pd.DataFrame(attributes_container, columns=columns)
-    tweets_outfile = f'tweets_{username}_freecc.csv'
-    tweets_df.to_csv(tweets_outfile)
+    dt_stamp = datetime.now().strftime("%Y%m%d-%I%M%S%p")
+    tweets_outfile = f'tweets_{username}_{dt_stamp}_freecc.csv'
+    tweets_df.to_csv(tweets_outfile, encoding='utf8')
     print(tweets_df)
 except BaseException as e:
     print('Status Failed On,',str(e))
