@@ -1,54 +1,61 @@
-# https://www.freecodecamp.org/news/python-web-scraping-tutorial/
-# https://github.com/Altimis/Scweet/blob/master/Example.ipynb
+# Script Author: Martin Beck
+# Medium Article Follow-Along: https://medium.com/better-programming/how-to-scrape-tweets-with-snscrape-90124ed006af
 
+# Pip install the command below if you don't have the development version of snscrape 
+# !pip install git+https://github.com/JustAnotherArchivist/snscrape.git
+
+# Run the below command if you don't already have Pandas
+# !pip install pandas
+
+# Imports
 import snscrape.modules.twitter as sntwitter
-# https://github.com/Altimis/Scweet
-# 
 import pandas as pd
 
-from Scweet.scweet import scrape
-from Scweet.user import get_user_information, get_users_following, get_users_followers
+# Below are two ways of scraping using the Python Wrapper.
+# Comment or uncomment as you need. If you currently run the script as is it will scrape both queries
+# then output two different csv files.
 
-"""
-# Search by Keywords
-data = scrape(words=['dalle2','midjourney'], since="2021-10-20", until="2021-10-26", 
-              from_account = None, interval=1, headless=False, display_type="Top", 
-              save_images=False, lang="en", resume=False, filter_replies=False, 
-              proximity=False, geocode="38.3452,-0.481006,200km")
-              
-data.head()
-"""
+# Query by username
+# Setting variables to be used below
+maxTweets = 100
 
-# Search by Hashtags
-data = scrape(hashtag="dalle2", since="2021-10-20", until=None, from_account = None, interval=1, 
-              headless=True, display_type="Top", save_images=False,
-              # show_images=True, save_images=True,
-              resume=False, filter_replies=True, proximity=True)
-data.head()
+# Creating list to append tweet data to
+tweets_list1 = []
 
-"""
-# Get User Info
-users = ['nagouzil', '@yassineaitjeddi', 'TahaAlamIdrissi', 
-         '@Nabila_Gl', 'geceeekusuu', '@pabu232', '@av_ahmet', '@x_born_to_die_x']
+# Using TwitterSearchScraper to scrape data 
+for i,tweet in enumerate(sntwitter.TwitterSearchScraper('from:jack').get_items()):
+    if i>maxTweets:
+        break
+    tweets_list1.append([tweet.date, tweet.id, tweet.content, tweet.user.username])
 
-users_info = get_user_information(users, headless=True)
-users_info.head()
-"""
+# Creating a dataframe from the tweets list above
+tweets_df1 = pd.DataFrame(tweets_list1, columns=['Datetime', 'Tweet Id', 'Text', 'Username'])
 
-"""
-# Created a list to append all tweet attributes(data)
-attributes_container = []
+# Display first 5 entries from dataframe
+# tweets_df1.head()
+
+# Export dataframe into a CSV
+tweets_df1.to_csv('user-tweets.csv', sep=',', index=False)
+
+
+# Query by text search
+# Setting variables to be used below
+maxTweets = 500
+
+# Creating list to append tweet data to
+tweets_list2 = []
 
 # Using TwitterSearchScraper to scrape data and append tweets to list
-for i,tweet in enumerate(sntwitter.TwitterSearchScraper('from:john').get_items()):
-    if i>10:
+for i,tweet in enumerate(sntwitter.TwitterSearchScraper('its the elephant since:2020-06-01 until:2020-07-31').get_items()):
+    if i>maxTweets:
         break
-    attributes_container.append([tweet.date, tweet.likeCount, tweet.sourceLabel, tweet.content])
-    
-# Creating a dataframe from the tweets list above 
-tweets_df = pd.DataFrame(attributes_container, columns=["Date Created", "Number of Likes", "Source of Tweet", "Tweets"])
+    tweets_list2.append([tweet.date, tweet.id, tweet.content, tweet.user.username])
 
-tweets_df.to_csv('tweets_snscrape.csv')
-print(tweets_df)
+# Creating a dataframe from the tweets list above
+tweets_df2 = pd.DataFrame(tweets_list2, columns=['Datetime', 'Tweet Id', 'Text', 'Username'])
 
-"""
+# Display first 5 entries from dataframe
+tweets_df2.head()
+
+# Export dataframe into a CSV
+tweets_df2.to_csv('text-query-tweets.csv', sep=',', index=False)
