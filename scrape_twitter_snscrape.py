@@ -10,20 +10,22 @@
 # Imports
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
+import json
 
 # Below are two ways of scraping using the Python Wrapper.
 # Comment or uncomment as you need. If you currently run the script as is it will scrape both queries
 # then output two different csv files.
 
 # Query by username
+my_query = 'KariLake'
 # Setting variables to be used below
-maxTweets = 100
+maxTweets = 10
 
 # Creating list to append tweet data to
 tweets_list1 = []
 
 # Using TwitterSearchScraper to scrape data 
-for i,tweet in enumerate(sntwitter.TwitterSearchScraper('from:jack').get_items()):
+for i,tweet in enumerate(sntwitter.TwitterSearchScraper(my_query).get_items()):
     if i>maxTweets:
         break
     tweets_list1.append([tweet.date, tweet.id, tweet.content, tweet.user.username])
@@ -35,18 +37,19 @@ tweets_df1 = pd.DataFrame(tweets_list1, columns=['Datetime', 'Tweet Id', 'Text',
 # tweets_df1.head()
 
 # Export dataframe into a CSV
-tweets_df1.to_csv('user-tweets.csv', sep=',', index=False)
+tweets_df1.to_csv('tweets_snscrape_midjourney_20111109.csv', sep=',', index=False)
 
 
 # Query by text search
+my_query = 'Midjourney'
 # Setting variables to be used below
-maxTweets = 500
+maxTweets = 10
 
 # Creating list to append tweet data to
 tweets_list2 = []
 
 # Using TwitterSearchScraper to scrape data and append tweets to list
-for i,tweet in enumerate(sntwitter.TwitterSearchScraper('its the elephant since:2020-06-01 until:2020-07-31').get_items()):
+for i,tweet in enumerate(sntwitter.TwitterSearchScraper('Midjourney since:2022-09-01 until:2022-11-09').get_items()):
     if i>maxTweets:
         break
     tweets_list2.append([tweet.date, tweet.id, tweet.content, tweet.user.username])
