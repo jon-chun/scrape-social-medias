@@ -1,0 +1,3307 @@
+{
+    "data": [
+        {
+            "username": "gretchenwhitmer",
+            "name": "Gretchen Whitmer",
+            "verified": true,
+            "id": "1093619068148559872",
+            "description": "Lifelong Michigander. Proud mom. Governor of Michigan. This is my personal account. Text 'IN' to 30348 for updates. For my official account, visit @GovWhitmer",
+            "protected": false,
+            "pinned_tweet_id": "1590335626398007297",
+            "url": "https://t.co/d8qvpoEMeu",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/d8qvpoEMeu",
+                            "expanded_url": "http://gretchenwhitmer.com",
+                            "display_url": "gretchenwhitmer.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "mentions": [
+                        {
+                            "start": 147,
+                            "end": 158,
+                            "username": "GovWhitmer"
+                        }
+                    ]
+                }
+            },
+            "location": "East Lansing, MI",
+            "public_metrics": {
+                "followers_count": 212579,
+                "following_count": 150,
+                "tweet_count": 1307,
+                "listed_count": 670
+            },
+            "created_at": "2019-02-07T21:14:39.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1504559099836616707/fiXovtcx_normal.jpg"
+        },
+        {
+            "username": "SenSanders",
+            "name": "Bernie Sanders",
+            "verified": true,
+            "id": "29442313",
+            "description": "U.S. Senator Bernie Sanders of Vermont, Chair of the Senate Budget Committee, is the longest-serving independent in congressional history.",
+            "protected": false,
+            "url": "https://t.co/8AS4FHJNoG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/8AS4FHJNoG",
+                            "expanded_url": "http://www.sanders.senate.gov/",
+                            "display_url": "sanders.senate.gov"
+                        }
+                    ]
+                }
+            },
+            "location": "Vermont/DC",
+            "public_metrics": {
+                "followers_count": 12554864,
+                "following_count": 2315,
+                "tweet_count": 23417,
+                "listed_count": 2
+            },
+            "created_at": "2009-04-07T13:02:35.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg"
+        },
+        {
+            "username": "AOC",
+            "name": "Alexandria Ocasio-Cortez",
+            "verified": true,
+            "id": "138203134",
+            "description": "US Representative,NY-14 (BX & Queens). In a modern, moral, & wealthy society, no American should be too poor to live. \uD83D\uDCAF% People-Funded, no lobbyist\uD83D\uDCB0. She/her.",
+            "protected": false,
+            "pinned_tweet_id": "1541538645399769089",
+            "url": "https://t.co/1gpC8bdz39",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/1gpC8bdz39",
+                            "expanded_url": "http://www.ocasiocortez.com",
+                            "display_url": "ocasiocortez.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Bronx + Queens, NYC",
+            "public_metrics": {
+                "followers_count": 13498557,
+                "following_count": 3965,
+                "tweet_count": 14379,
+                "listed_count": 26122
+            },
+            "created_at": "2010-04-28T22:38:40.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg"
+        },
+        {
+            "username": "bsbooktalk",
+            "name": "b’s book talk",
+            "verified": false,
+            "id": "1396870329436446722",
+            "description": "I’m just here to talk book with my pocket friends, discussions may contain spoilers",
+            "protected": false,
+            "pinned_tweet_id": "1435992720460460037",
+            "public_metrics": {
+                "followers_count": 26,
+                "following_count": 8,
+                "tweet_count": 68,
+                "listed_count": 0
+            },
+            "created_at": "2021-05-24T16:47:03.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1396971417258844164/Y7H4r09F_normal.jpg"
+        },
+        {
+            "username": "NavessaAllen",
+            "name": "Navessa Allen",
+            "verified": false,
+            "id": "2424549368",
+            "description": "Author of Scandal. New chapters of each work in progress released weekly on my website. Blog auto-posts here.",
+            "protected": false,
+            "pinned_tweet_id": "1430132679538888710",
+            "url": "https://t.co/COqniFLOtu",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/COqniFLOtu",
+                            "expanded_url": "http://navessaallen.com",
+                            "display_url": "navessaallen.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 369,
+                "following_count": 229,
+                "tweet_count": 6492,
+                "listed_count": 11
+            },
+            "created_at": "2014-04-03T00:51:00.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1368531012012085251/V8lQoR3v_normal.jpg"
+        },
+        {
+            "username": "evmbcreatives",
+            "name": "Ellie Biggs",
+            "verified": false,
+            "id": "1133824438460387331",
+            "description": "Book reader, Hockey watcher \uD83D\uDC27 - Check out my bookstagram: evmb_creatives - happy to review, just DM me ☺️",
+            "protected": false,
+            "pinned_tweet_id": "1502585320306618370",
+            "url": "https://t.co/H0CCbjzWwU",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/H0CCbjzWwU",
+                            "expanded_url": "https://m.youtube.com/channel/UCdXA_dXc8KCZeMC3CBW9qSw",
+                            "display_url": "m.youtube.com/channel/UCdXA_…"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 181,
+                "following_count": 345,
+                "tweet_count": 922,
+                "listed_count": 2
+            },
+            "created_at": "2019-05-29T19:56:26.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1282308113417342977/jz3eSxW4_normal.jpg"
+        },
+        {
+            "username": "PalmerReport",
+            "name": "Palmer Report",
+            "verified": true,
+            "id": "15115280",
+            "description": "Political analysis ahead of the curve.",
+            "protected": false,
+            "pinned_tweet_id": "1592525326936055809",
+            "url": "https://t.co/1OJ2cVYAy2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/1OJ2cVYAy2",
+                            "expanded_url": "http://palmerreport.com",
+                            "display_url": "palmerreport.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Los Angeles, CA",
+            "public_metrics": {
+                "followers_count": 496577,
+                "following_count": 109833,
+                "tweet_count": 199476,
+                "listed_count": 3623
+            },
+            "created_at": "2008-06-14T07:46:44.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1301392629230338048/wEJnZzSn_normal.jpg"
+        },
+        {
+            "username": "POTUS",
+            "name": "President Biden",
+            "verified": true,
+            "id": "1349149096909668363",
+            "description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+            "protected": false,
+            "url": "https://t.co/MzB1JWfbJ0",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MzB1JWfbJ0",
+                            "expanded_url": "http://WhiteHouse.gov",
+                            "display_url": "WhiteHouse.gov"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "start": 98,
+                            "end": 121,
+                            "url": "https://t.co/HDhBZBkKpU",
+                            "expanded_url": "http://whitehouse.gov/privacy",
+                            "display_url": "whitehouse.gov/privacy"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 48,
+                            "end": 55,
+                            "username": "FLOTUS"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 27380051,
+                "following_count": 12,
+                "tweet_count": 4563,
+                "listed_count": 21243
+            },
+            "created_at": "2021-01-13T00:37:08.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1380530524779859970/TfwVAbyX_normal.jpg"
+        },
+        {
+            "username": "staceyabrams",
+            "name": "Stacey Abrams",
+            "verified": true,
+            "id": "216065430",
+            "description": "Democratic Nominee for Governor of Georgia. Small Business Owner. Tax Attorney. Nonprofit Founder. Bestselling Author. Join @TeamAbrams now.",
+            "protected": false,
+            "pinned_tweet_id": "1590098080258740224",
+            "url": "https://t.co/KB1rUwIaan",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/KB1rUwIaan",
+                            "expanded_url": "http://StaceyAbrams.com",
+                            "display_url": "StaceyAbrams.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "mentions": [
+                        {
+                            "start": 124,
+                            "end": 135,
+                            "username": "TeamAbrams"
+                        }
+                    ]
+                }
+            },
+            "location": "Georgia",
+            "public_metrics": {
+                "followers_count": 2916745,
+                "following_count": 1925,
+                "tweet_count": 15386,
+                "listed_count": 8798
+            },
+            "created_at": "2010-11-15T18:12:10.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1503392475267973120/hdofBB20_normal.jpg"
+        },
+        {
+            "username": "GovWhitmer",
+            "name": "Governor Gretchen Whitmer",
+            "verified": true,
+            "id": "102071743",
+            "description": "49th Governor of Michigan. Proud mom.",
+            "protected": false,
+            "url": "https://t.co/8vKJCSSDGB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/8vKJCSSDGB",
+                            "expanded_url": "http://www.michigan.gov/whitmer",
+                            "display_url": "michigan.gov/whitmer"
+                        }
+                    ]
+                }
+            },
+            "location": "East Lansing, MI",
+            "public_metrics": {
+                "followers_count": 524247,
+                "following_count": 483,
+                "tweet_count": 7856,
+                "listed_count": 2077
+            },
+            "created_at": "2010-01-05T14:15:29.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1412538766573682688/HQkDVp77_normal.jpg"
+        },
+        {
+            "username": "DrBiden",
+            "name": "Dr. Jill Biden",
+            "verified": true,
+            "id": "821784477076750338",
+            "description": "Lifelong educator. Military mother. Grandmother. Sister. Wife to @JoeBiden.",
+            "protected": false,
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "start": 65,
+                            "end": 74,
+                            "username": "JoeBiden"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 3879361,
+                "following_count": 22,
+                "tweet_count": 960,
+                "listed_count": 5234
+            },
+            "created_at": "2017-01-18T18:21:02.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1334146854414667777/P1NgFO9L_normal.jpg"
+        },
+        {
+            "username": "JoeBiden",
+            "name": "Joe Biden",
+            "verified": true,
+            "id": "939091",
+            "description": "Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+            "protected": false,
+            "url": "https://t.co/UClrPuJpyZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/UClrPuJpyZ",
+                            "expanded_url": "http://joebiden.com",
+                            "display_url": "joebiden.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "mentions": [
+                        {
+                            "start": 11,
+                            "end": 19,
+                            "username": "DrBiden"
+                        },
+                        {
+                            "start": 117,
+                            "end": 123,
+                            "username": "POTUS"
+                        }
+                    ]
+                }
+            },
+            "location": "Washington, DC",
+            "public_metrics": {
+                "followers_count": 36373345,
+                "following_count": 47,
+                "tweet_count": 8734,
+                "listed_count": 40336
+            },
+            "created_at": "2007-03-11T17:51:24.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg"
+        },
+        {
+            "username": "KamalaHarris",
+            "name": "Kamala Harris",
+            "verified": true,
+            "id": "30354991",
+            "description": "Fighting for the people. Wife, Momala, Auntie. She/her. Official account is @VP.",
+            "protected": false,
+            "url": "https://t.co/uBcfgtTRsi",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/uBcfgtTRsi",
+                            "expanded_url": "https://joebiden.com",
+                            "display_url": "joebiden.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "mentions": [
+                        {
+                            "start": 76,
+                            "end": 79,
+                            "username": "VP"
+                        }
+                    ]
+                }
+            },
+            "location": "Washington, DC",
+            "public_metrics": {
+                "followers_count": 20081652,
+                "following_count": 729,
+                "tweet_count": 16898,
+                "listed_count": 27217
+            },
+            "created_at": "2009-04-11T00:42:07.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1592241313700782081/T2pTYU8d_normal.jpg"
+        },
+        {
+            "username": "jeremynewberger",
+            "name": "Mr. Newberger",
+            "verified": true,
+            "id": "17813513",
+            "description": "Top Political Satirist, Emmy nominated doc filmmaker, TV Director, world class Schmendrick. Mastodon: @JeremyNewberger@mastodon.world OG Blue Check.",
+            "protected": false,
+            "pinned_tweet_id": "1591433352707723270",
+            "url": "https://t.co/4lESKUZjoP",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/4lESKUZjoP",
+                            "expanded_url": "http://www.ironboundfilms.com",
+                            "display_url": "ironboundfilms.com"
+                        }
+                    ]
+                }
+            },
+            "location": "United States",
+            "public_metrics": {
+                "followers_count": 128649,
+                "following_count": 10835,
+                "tweet_count": 129471,
+                "listed_count": 673
+            },
+            "created_at": "2008-12-02T17:59:34.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1568730448720789505/DQjRf93K_normal.jpg"
+        },
+        {
+            "username": "tmorello",
+            "name": "Tom Morello",
+            "verified": true,
+            "id": "23023236",
+            "description": "Feed the poor. Fight the power. Rock the f*ck out. THE ATLAS UNDERGROUND FLOOD out now!\nhttps://t.co/MeKmkM5B4G",
+            "protected": false,
+            "url": "https://t.co/9AMmSqTfF6",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/9AMmSqTfF6",
+                            "expanded_url": "https://linktr.ee/TomMorello",
+                            "display_url": "linktr.ee/TomMorello"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "start": 88,
+                            "end": 111,
+                            "url": "https://t.co/MeKmkM5B4G",
+                            "expanded_url": "http://www.fender.com/tommorello",
+                            "display_url": "fender.com/tommorello"
+                        }
+                    ]
+                }
+            },
+            "location": "Union Town",
+            "public_metrics": {
+                "followers_count": 948372,
+                "following_count": 120,
+                "tweet_count": 17484,
+                "listed_count": 6990
+            },
+            "created_at": "2009-03-06T03:25:17.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1461486796165029896/FAlkIjyr_normal.jpg"
+        },
+        {
+            "username": "redditships",
+            "name": "relationships.txt",
+            "verified": false,
+            "id": "864926050035400705",
+            "description": "choice posts from the bountiful gardens of reddit's relationship subreddits.\n\nDMs open, Gmail acct is redditships.\n\nI don't do promotions.",
+            "protected": false,
+            "pinned_tweet_id": "1476978369879162882",
+            "location": "hell",
+            "public_metrics": {
+                "followers_count": 456588,
+                "following_count": 16,
+                "tweet_count": 3923,
+                "listed_count": 876
+            },
+            "created_at": "2017-05-17T19:30:14.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1241783357366775809/nTz0ORd2_normal.jpg"
+        },
+        {
+            "username": "SbethCaplin",
+            "name": "Sarahbeth Caplin",
+            "verified": false,
+            "id": "1027218848",
+            "description": "Beth/SB. Writer. Catholic-flavored Anglican. Wife and cat mom. More active on https://t.co/VSdfhcCdee",
+            "protected": false,
+            "pinned_tweet_id": "1521226225611534336",
+            "url": "https://t.co/ogDzHEE6bW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/ogDzHEE6bW",
+                            "expanded_url": "http://www.sbethcaplin.com",
+                            "display_url": "sbethcaplin.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "start": 78,
+                            "end": 101,
+                            "url": "https://t.co/VSdfhcCdee",
+                            "expanded_url": "http://instagram.com/sbethcaplin",
+                            "display_url": "instagram.com/sbethcaplin"
+                        }
+                    ]
+                }
+            },
+            "location": "Windsor, CO",
+            "public_metrics": {
+                "followers_count": 3027,
+                "following_count": 135,
+                "tweet_count": 36519,
+                "listed_count": 135
+            },
+            "created_at": "2012-12-21T21:48:48.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1578620823161647104/qJ_-E-aI_normal.jpg"
+        },
+        {
+            "username": "AnitaBooktoread",
+            "name": "Anita_booktoread",
+            "verified": false,
+            "id": "1101953164524249088",
+            "description": "Give me a good book and I'll leave you alone (for a while).",
+            "protected": false,
+            "url": "https://t.co/25oAdwdRSd",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/25oAdwdRSd",
+                            "expanded_url": "https://www.instagram.com/anita_booktoread",
+                            "display_url": "instagram.com/anita_booktore…"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 205,
+                "following_count": 321,
+                "tweet_count": 2077,
+                "listed_count": 0
+            },
+            "created_at": "2019-03-02T21:11:22.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1193024467984736257/5ZeOGddT_normal.jpg"
+        },
+        {
+            "username": "GretaThunberg",
+            "name": "Greta Thunberg",
+            "verified": true,
+            "id": "1006419421244678144",
+            "description": "Autistic climate justice activist\nBorn at 375 ppm",
+            "protected": false,
+            "pinned_tweet_id": "1460159146720997377",
+            "url": "https://t.co/0HwowCDzNy",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/0HwowCDzNy",
+                            "expanded_url": "http://fridaysforfuture.org",
+                            "display_url": "fridaysforfuture.org"
+                        }
+                    ]
+                }
+            },
+            "location": "Sverige",
+            "public_metrics": {
+                "followers_count": 4995070,
+                "following_count": 2842,
+                "tweet_count": 11686,
+                "listed_count": 11891
+            },
+            "created_at": "2018-06-12T06:14:23.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1459213153301053442/rL5hhpAI_normal.jpg"
+        },
+        {
+            "username": "PauldeGelder",
+            "name": "Paul de Gelder",
+            "verified": false,
+            "id": "187826317",
+            "description": "Shark Week Host, Motivational Speaker.",
+            "protected": false,
+            "url": "https://t.co/1K4wH8iNMO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/1K4wH8iNMO",
+                            "expanded_url": "http://www.pauldegelder.com",
+                            "display_url": "pauldegelder.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Los Angeles, CA",
+            "public_metrics": {
+                "followers_count": 13942,
+                "following_count": 423,
+                "tweet_count": 6615,
+                "listed_count": 68
+            },
+            "created_at": "2010-09-07T07:22:10.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1355720054055157761/s4KsnEU1_normal.jpg"
+        },
+        {
+            "username": "TheTweetOfGod",
+            "name": "God (Not a Parody, Actually God)",
+            "verified": false,
+            "id": "204832963",
+            "description": "Pronouns: Thee/Thy.\nI'll pay $8 a month for a blue tick when monkeys come out of My heavenly butt.\nMy book \"The Book of Pslams\" out now: https://t.co/3h3qRb4eT4",
+            "protected": false,
+            "pinned_tweet_id": "1592542698749431809",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "start": 137,
+                            "end": 160,
+                            "url": "https://t.co/3h3qRb4eT4",
+                            "expanded_url": "http://tinyurl.com/yckjn828",
+                            "display_url": "tinyurl.com/yckjn828"
+                        }
+                    ]
+                }
+            },
+            "location": "Heaven",
+            "public_metrics": {
+                "followers_count": 6255402,
+                "following_count": 1,
+                "tweet_count": 12363,
+                "listed_count": 14894
+            },
+            "created_at": "2010-10-19T15:26:05.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1513636967090917378/u3n2blUC_normal.jpg"
+        },
+        {
+            "username": "SamChevelle",
+            "name": "Sam Loeffler",
+            "verified": false,
+            "id": "2285536994",
+            "description": "I'm already on somebody's list as a casualty.",
+            "protected": false,
+            "url": "https://t.co/qqZzFyUtdu",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/qqZzFyUtdu",
+                            "expanded_url": "http://getmorechevelle.com",
+                            "display_url": "getmorechevelle.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Chicago, IL",
+            "public_metrics": {
+                "followers_count": 19456,
+                "following_count": 3,
+                "tweet_count": 108,
+                "listed_count": 26
+            },
+            "created_at": "2014-01-10T19:24:12.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1021805597078024192/Jaslqg4q_normal.jpg"
+        },
+        {
+            "username": "GeorgeTakei",
+            "name": "George Takei",
+            "verified": true,
+            "id": "237845487",
+            "description": "I am a parody of myself, if anyone wonders if this is really me.",
+            "protected": false,
+            "url": "https://t.co/6SaEFkOGm2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/6SaEFkOGm2",
+                            "expanded_url": "https://linktr.ee/georgetakei",
+                            "display_url": "linktr.ee/georgetakei"
+                        }
+                    ]
+                }
+            },
+            "location": "Broadway - New York, NY",
+            "public_metrics": {
+                "followers_count": 3446422,
+                "following_count": 1107,
+                "tweet_count": 98550,
+                "listed_count": 21181
+            },
+            "created_at": "2011-01-13T19:33:56.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1395773050881196032/yCpIyKBt_normal.jpg"
+        },
+        {
+            "username": "VancityReynolds",
+            "name": "Ryan Reynolds",
+            "verified": true,
+            "id": "2893511188",
+            "description": "owner: @aviationgin - @MintMobile - @maximumeffort - @Wrexham_AFC",
+            "protected": false,
+            "pinned_tweet_id": "1574865217141481477",
+            "url": "https://t.co/sfGv5ci8TD",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/sfGv5ci8TD",
+                            "expanded_url": "https://mintmobile.com/",
+                            "display_url": "mintmobile.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "mentions": [
+                        {
+                            "start": 7,
+                            "end": 19,
+                            "username": "aviationgin"
+                        },
+                        {
+                            "start": 22,
+                            "end": 33,
+                            "username": "MintMobile"
+                        },
+                        {
+                            "start": 36,
+                            "end": 50,
+                            "username": "maximumeffort"
+                        },
+                        {
+                            "start": 53,
+                            "end": 65,
+                            "username": "Wrexham_AFC"
+                        }
+                    ]
+                }
+            },
+            "location": "\uD83C\uDDE8\uD83C\uDDE6 ",
+            "public_metrics": {
+                "followers_count": 20775986,
+                "following_count": 1330,
+                "tweet_count": 3236,
+                "listed_count": 11995
+            },
+            "created_at": "2014-11-26T16:12:27.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1299844050208555008/7wMQaJRA_normal.jpg"
+        },
+        {
+            "username": "CreativeMarket",
+            "name": "Creative Market",
+            "verified": false,
+            "id": "455304067",
+            "description": "Bring your creative projects to life. Buy ready-to-use design content from independent creators around the world.",
+            "protected": false,
+            "url": "https://t.co/pQ7MEFw7Nr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/pQ7MEFw7Nr",
+                            "expanded_url": "https://www.creativemarket.com",
+                            "display_url": "creativemarket.com"
+                        }
+                    ]
+                }
+            },
+            "location": "San Francisco, CA",
+            "public_metrics": {
+                "followers_count": 170356,
+                "following_count": 928,
+                "tweet_count": 25362,
+                "listed_count": 1148
+            },
+            "created_at": "2012-01-04T23:44:35.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1443246821204242442/GsINSJg2_normal.jpg"
+        },
+        {
+            "username": "BarackObama",
+            "name": "Barack Obama",
+            "verified": true,
+            "id": "813286",
+            "description": "Dad, husband, President, citizen.",
+            "protected": false,
+            "url": "https://t.co/kHvnxozw8x",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/kHvnxozw8x",
+                            "expanded_url": "http://obamabook.com",
+                            "display_url": "obamabook.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Washington, DC",
+            "public_metrics": {
+                "followers_count": 133314723,
+                "following_count": 572517,
+                "tweet_count": 16687,
+                "listed_count": 219764
+            },
+            "created_at": "2007-03-05T22:08:25.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg"
+        },
+        {
+            "username": "CTCovers",
+            "name": "CT Cover Creations",
+            "verified": false,
+            "id": "899635555",
+            "description": "Cover artist of some of the New York Times & USA Today Best Selling authors\n\n•DREAM BIG•WORK HARD•HAVE FAITH•",
+            "protected": false,
+            "url": "http://t.co/Kr6h2sSw5D",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 22,
+                            "url": "http://t.co/Kr6h2sSw5D",
+                            "expanded_url": "http://www.ctcovercreations.com",
+                            "display_url": "ctcovercreations.com"
+                        }
+                    ]
+                }
+            },
+            "location": "a world of my own",
+            "public_metrics": {
+                "followers_count": 179,
+                "following_count": 54,
+                "tweet_count": 7426,
+                "listed_count": 8
+            },
+            "created_at": "2012-10-23T10:09:11.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/989147354539347968/RHTMsd7Y_normal.jpg"
+        },
+        {
+            "username": "BetTheBookEnds",
+            "name": "Between The Bookends",
+            "verified": false,
+            "id": "921723073384116224",
+            "description": "Hi there! I’m a mom and wife by day (and night), aspiring writer (in my dreams), and an avid reader (every day of the week).",
+            "protected": false,
+            "url": "https://t.co/HbYv4DkRRZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/HbYv4DkRRZ",
+                            "expanded_url": "https://betweenthebookends.recinella.dk/",
+                            "display_url": "betweenthebookends.recinella.dk"
+                        }
+                    ]
+                }
+            },
+            "location": "Copenhagen, Denmark",
+            "public_metrics": {
+                "followers_count": 407,
+                "following_count": 577,
+                "tweet_count": 5406,
+                "listed_count": 4
+            },
+            "created_at": "2017-10-21T13:01:20.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1041400376166105089/SZCVhLw2_normal.jpg"
+        },
+        {
+            "username": "frenchnbookish",
+            "name": "Naomi",
+            "verified": false,
+            "id": "929431218411712513",
+            "description": "reader of romance \uD83D\uDCD6 • @genashowalter and @kresleycole’s social media manager \uD83D\uDC69\uD83C\uDFFB‍\uD83D\uDCBB • graphic designer • has a weird sense of humor",
+            "protected": true,
+            "pinned_tweet_id": "1453551395362181122",
+            "url": "https://t.co/IL7GQIneS8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/IL7GQIneS8",
+                            "expanded_url": "http://frenchnbookish.com",
+                            "display_url": "frenchnbookish.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "mentions": [
+                        {
+                            "start": 22,
+                            "end": 36,
+                            "username": "genashowalter"
+                        },
+                        {
+                            "start": 41,
+                            "end": 53,
+                            "username": "kresleycole"
+                        }
+                    ]
+                }
+            },
+            "location": "she/her",
+            "public_metrics": {
+                "followers_count": 985,
+                "following_count": 121,
+                "tweet_count": 15420,
+                "listed_count": 5
+            },
+            "created_at": "2017-11-11T19:30:45.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1419950128685793282/gZ4IfXve_normal.jpg"
+        },
+        {
+            "username": "MichelleObama",
+            "name": "Michelle Obama",
+            "verified": true,
+            "id": "409486555",
+            "description": "Girl from the South Side and former First Lady. Wife, mother, dog lover. Always hugger-in-chief. #TheLightWeCarry",
+            "protected": false,
+            "pinned_tweet_id": "1592531705952231424",
+            "url": "https://t.co/RjeJ9bWjs1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/RjeJ9bWjs1",
+                            "expanded_url": "http://michelleobamabooks.com",
+                            "display_url": "michelleobamabooks.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [
+                        {
+                            "start": 97,
+                            "end": 113,
+                            "tag": "TheLightWeCarry"
+                        }
+                    ]
+                }
+            },
+            "location": "Washington, DC",
+            "public_metrics": {
+                "followers_count": 22181591,
+                "following_count": 17,
+                "tweet_count": 2070,
+                "listed_count": 27846
+            },
+            "created_at": "2011-11-10T20:13:01.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1550073782374744066/UMe2HL99_normal.jpg"
+        },
+        {
+            "username": "Oprah",
+            "name": "Oprah Winfrey",
+            "verified": true,
+            "id": "19397785",
+            "description": "",
+            "protected": false,
+            "url": "https://t.co/IKOnfAha8E",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/IKOnfAha8E",
+                            "expanded_url": "http://www.oprah.com",
+                            "display_url": "oprah.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 43136442,
+                "following_count": 318,
+                "tweet_count": 13649,
+                "listed_count": 82838
+            },
+            "created_at": "2009-01-23T15:18:34.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1123359369570148353/Mh-Rf4Sk_normal.jpg"
+        },
+        {
+            "username": "womensmarch",
+            "name": "Women's March",
+            "verified": true,
+            "id": "800942537083068416",
+            "description": "Five years of resistance, five years of training, five years of building power. Together we will take the power back. Text MARCH to 44310",
+            "protected": false,
+            "url": "https://t.co/8AO8akVHtF",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/8AO8akVHtF",
+                            "expanded_url": "http://www.womensmarch.com/",
+                            "display_url": "womensmarch.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Washington, D.C.",
+            "public_metrics": {
+                "followers_count": 607941,
+                "following_count": 899,
+                "tweet_count": 34177,
+                "listed_count": 3359
+            },
+            "created_at": "2016-11-22T06:02:36.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1484360189847298057/4v1EURkX_normal.jpg"
+        },
+        {
+            "username": "Ripple",
+            "name": "Ripple",
+            "verified": true,
+            "id": "1051053836",
+            "description": "Our mission is to build breakthrough crypto solutions for a world without economic borders.",
+            "protected": false,
+            "pinned_tweet_id": "1577692196228059139",
+            "url": "https://t.co/I3IIWvt3O5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/I3IIWvt3O5",
+                            "expanded_url": "http://www.ripple.com",
+                            "display_url": "ripple.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 2598158,
+                "following_count": 956,
+                "tweet_count": 8383,
+                "listed_count": 12564
+            },
+            "created_at": "2012-12-31T19:45:39.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1546617859425456128/pNaQPiX2_normal.jpg"
+        },
+        {
+            "username": "simonsinek",
+            "name": "Simon Sinek",
+            "verified": true,
+            "id": "15970050",
+            "description": "inspire someone every single day.",
+            "protected": false,
+            "pinned_tweet_id": "1587805155587723267",
+            "url": "https://t.co/AKcjc9OTIw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/AKcjc9OTIw",
+                            "expanded_url": "http://www.simonsinek.com",
+                            "display_url": "simonsinek.com"
+                        }
+                    ]
+                }
+            },
+            "location": "New York",
+            "public_metrics": {
+                "followers_count": 953395,
+                "following_count": 49,
+                "tweet_count": 3769,
+                "listed_count": 10162
+            },
+            "created_at": "2008-08-24T16:24:52.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1295112038096629760/3eCOaKDb_normal.jpg"
+        },
+        {
+            "username": "HawaiiDelilah",
+            "name": "HawaiiDelilah™",
+            "verified": false,
+            "id": "164554364",
+            "description": "Democratic Digital Activist | Hawaii has THE BEST senators | #ObamaBidenHarrisDemocrat | Internationalist | Frequent Flier with cocktails | Pro-Cougar |",
+            "protected": false,
+            "pinned_tweet_id": "1590500536335278080",
+            "url": "https://t.co/KI8avzr4fA",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/KI8avzr4fA",
+                            "expanded_url": "https://www.instagram.com/hawaiidelilah/",
+                            "display_url": "instagram.com/hawaiidelilah/"
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [
+                        {
+                            "start": 61,
+                            "end": 86,
+                            "tag": "ObamaBidenHarrisDemocrat"
+                        }
+                    ]
+                }
+            },
+            "location": "High likelihood of a beach",
+            "public_metrics": {
+                "followers_count": 64693,
+                "following_count": 3459,
+                "tweet_count": 168520,
+                "listed_count": 443
+            },
+            "created_at": "2010-07-09T04:25:18.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1566222379180666880/wCyTz-jU_normal.jpg"
+        },
+        {
+            "username": "MaryLeeShark",
+            "name": "Mary Lee the shark",
+            "verified": false,
+            "id": "976857223",
+            "description": "Great white shark tagged by @OCEARCH cruising the East Coast of the U.S. Track me here: https://t.co/Zf7WXPKKE2",
+            "protected": false,
+            "url": "https://t.co/Zf7WXPKKE2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/Zf7WXPKKE2",
+                            "expanded_url": "https://www.ocearch.org/tracker/?details=41",
+                            "display_url": "ocearch.org/tracker/?detai…"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "start": 88,
+                            "end": 111,
+                            "url": "https://t.co/Zf7WXPKKE2",
+                            "expanded_url": "https://www.ocearch.org/tracker/?details=41",
+                            "display_url": "ocearch.org/tracker/?detai…"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 28,
+                            "end": 36,
+                            "username": "OCEARCH"
+                        }
+                    ]
+                }
+            },
+            "location": "East Coast of the U.S.",
+            "public_metrics": {
+                "followers_count": 120263,
+                "following_count": 27897,
+                "tweet_count": 13707,
+                "listed_count": 485
+            },
+            "created_at": "2012-11-28T19:55:16.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/816410083248611328/OLfbob2B_normal.jpg"
+        },
+        {
+            "username": "RedFeatherRom",
+            "name": "Red Feather Romance",
+            "verified": false,
+            "id": "3030611284",
+            "description": "Red Feather Romance is a discreet way to discover sexy novels that you'll love. Sign up for the weekly email and prepare to get hot and bothered (in a good way)",
+            "protected": false,
+            "pinned_tweet_id": "611891751985512448",
+            "url": "https://t.co/4X6SlA8kwr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/4X6SlA8kwr",
+                            "expanded_url": "http://www.redfeatherromance.com",
+                            "display_url": "redfeatherromance.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Where the spice is",
+            "public_metrics": {
+                "followers_count": 1991,
+                "following_count": 3085,
+                "tweet_count": 2096,
+                "listed_count": 28
+            },
+            "created_at": "2015-02-11T15:45:12.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1503821913512202240/8FKaPQXi_normal.jpg"
+        },
+        {
+            "username": "itsokay_10",
+            "name": "It's Okay",
+            "verified": false,
+            "id": "826299256751337472",
+            "description": "",
+            "protected": true,
+            "public_metrics": {
+                "followers_count": 216,
+                "following_count": 312,
+                "tweet_count": 400,
+                "listed_count": 10
+            },
+            "created_at": "2017-01-31T05:21:09.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1344341502252646400/oAohRlKU_normal.jpg"
+        },
+        {
+            "username": "AltaHensley",
+            "name": "Alta Hensley",
+            "verified": false,
+            "id": "181599606",
+            "description": "Alta Hensley is a USA TODAY bestselling romance author who  writes the hot, dark, and dirty romance.",
+            "protected": false,
+            "url": "http://t.co/PDr0qlceKw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 22,
+                            "url": "http://t.co/PDr0qlceKw",
+                            "expanded_url": "http://altahensley.com",
+                            "display_url": "altahensley.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Lake Almanor, California",
+            "public_metrics": {
+                "followers_count": 9191,
+                "following_count": 883,
+                "tweet_count": 7680,
+                "listed_count": 219
+            },
+            "created_at": "2010-08-22T16:15:18.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1059495899984883713/XFFEXA-m_normal.jpg"
+        },
+        {
+            "username": "Analia_Almonte",
+            "name": "Analia\uD83D\uDC95",
+            "verified": false,
+            "id": "102202995",
+            "description": "Though she be but little, she is #Fierce #Bibliophile #BookDragon #LoverBook #BookJunkie #CupcakeLover",
+            "protected": false,
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "start": 33,
+                            "end": 40,
+                            "tag": "Fierce"
+                        },
+                        {
+                            "start": 41,
+                            "end": 53,
+                            "tag": "Bibliophile"
+                        },
+                        {
+                            "start": 54,
+                            "end": 65,
+                            "tag": "BookDragon"
+                        },
+                        {
+                            "start": 66,
+                            "end": 76,
+                            "tag": "LoverBook"
+                        },
+                        {
+                            "start": 77,
+                            "end": 88,
+                            "tag": "BookJunkie"
+                        },
+                        {
+                            "start": 89,
+                            "end": 102,
+                            "tag": "CupcakeLover"
+                        }
+                    ]
+                }
+            },
+            "location": "San Juan, Puerto Rico",
+            "public_metrics": {
+                "followers_count": 167,
+                "following_count": 257,
+                "tweet_count": 4187,
+                "listed_count": 9
+            },
+            "created_at": "2010-01-05T23:35:42.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1522722906089963524/QgcOODle_normal.jpg"
+        },
+        {
+            "username": "Nicsully16",
+            "name": "Nicole Sullivan",
+            "verified": false,
+            "id": "367290928",
+            "description": "Please support my baby brother!",
+            "protected": false,
+            "pinned_tweet_id": "1007103738786402306",
+            "url": "https://t.co/kCdTqr5fZk",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/kCdTqr5fZk",
+                            "expanded_url": "https://www.gofundme.com/dave-robinson-fighton",
+                            "display_url": "gofundme.com/dave-robinson-…"
+                        }
+                    ]
+                }
+            },
+            "location": "Georgia ",
+            "public_metrics": {
+                "followers_count": 64,
+                "following_count": 519,
+                "tweet_count": 1503,
+                "listed_count": 1
+            },
+            "created_at": "2011-09-03T18:29:58.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1105564848778293248/-mgyrajo_normal.jpg"
+        },
+        {
+            "username": "AuthorNSloane",
+            "name": "Nikki Sloane",
+            "verified": false,
+            "id": "2729826474",
+            "description": "USA Today bestselling author. I like books with banging in them! Sometimes they win awards and sometimes they get banned. She/Her",
+            "protected": false,
+            "url": "https://t.co/vR38juSLAJ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/vR38juSLAJ",
+                            "expanded_url": "http://www.nikkisloane.com",
+                            "display_url": "nikkisloane.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 2849,
+                "following_count": 1336,
+                "tweet_count": 2988,
+                "listed_count": 38
+            },
+            "created_at": "2014-08-13T16:47:34.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1385677459585183748/Fe7CUM0V_normal.jpg"
+        },
+        {
+            "username": "tammyvoiced",
+            "name": "Tammy",
+            "verified": false,
+            "id": "116909250",
+            "description": "•A Splash Of Funny With A Gallon Of Sarcasm• Anglophile•Whovian•InkHoarder•GoldenGirler• MigraineWarrior•",
+            "protected": false,
+            "pinned_tweet_id": "1196607512356802561",
+            "location": "The Burg, MD USA",
+            "public_metrics": {
+                "followers_count": 610,
+                "following_count": 422,
+                "tweet_count": 63048,
+                "listed_count": 24
+            },
+            "created_at": "2010-02-23T23:33:32.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1334650757161869312/bbdO4zmg_normal.jpg"
+        },
+        {
+            "username": "D_and_S_Events",
+            "name": "Dark&SeductiveEvents",
+            "verified": false,
+            "id": "740002372315979776",
+            "description": "Our First Event Will Take Place on July 22nd, 2017 in Charlotte, NC! #ADASA2017 | Tickets ➤ https://t.co/NiICQ8tk1o",
+            "protected": false,
+            "pinned_tweet_id": "825132439974641665",
+            "url": "https://t.co/MMdQ03UJuV",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MMdQ03UJuV",
+                            "expanded_url": "https://darkandseductive.com",
+                            "display_url": "darkandseductive.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "start": 92,
+                            "end": 115,
+                            "url": "https://t.co/NiICQ8tk1o",
+                            "expanded_url": "http://bit.ly/DarkSeductiveEvents",
+                            "display_url": "bit.ly/DarkSeductiveE…"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 69,
+                            "end": 79,
+                            "tag": "ADASA2017"
+                        }
+                    ]
+                }
+            },
+            "location": "Charlotte, NC",
+            "public_metrics": {
+                "followers_count": 102,
+                "following_count": 54,
+                "tweet_count": 564,
+                "listed_count": 0
+            },
+            "created_at": "2016-06-07T02:08:08.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/740003258941485058/iTWKbxi4_normal.jpg"
+        },
+        {
+            "username": "booksweettooth",
+            "name": "The Bookish Sweet Tooth",
+            "verified": false,
+            "id": "196469460",
+            "description": "Book Blogger, ocean&animal lover, biology student. https://t.co/uPqJGFWvXv\nhttps://t.co/cOKS4tXvjw",
+            "protected": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "start": 51,
+                            "end": 74,
+                            "url": "https://t.co/uPqJGFWvXv",
+                            "expanded_url": "https://www.thebookishsweettooth.com",
+                            "display_url": "thebookishsweettooth.com"
+                        },
+                        {
+                            "start": 75,
+                            "end": 98,
+                            "url": "https://t.co/cOKS4tXvjw",
+                            "expanded_url": "https://www.facebook.com/thebookishsweettooth/",
+                            "display_url": "facebook.com/thebookishswee…"
+                        }
+                    ]
+                }
+            },
+            "location": "Redmond, WA",
+            "public_metrics": {
+                "followers_count": 851,
+                "following_count": 886,
+                "tweet_count": 3911,
+                "listed_count": 17
+            },
+            "created_at": "2010-09-29T05:01:05.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1006636086767046658/dopLGdXH_normal.jpg"
+        },
+        {
+            "username": "rayliz89",
+            "name": "RayLiz",
+            "verified": false,
+            "id": "2698921543",
+            "description": "Librarian and book reviewer. Bravo fan. I retweet a lot of social justice/liberal stuff. \uD83D\uDCDA\uD83D\uDC36\uD83D\uDD76\uD83E\uDD37\uD83C\uDFFB‍♀️",
+            "protected": false,
+            "location": "Burbank, CA ",
+            "public_metrics": {
+                "followers_count": 766,
+                "following_count": 475,
+                "tweet_count": 14056,
+                "listed_count": 11
+            },
+            "created_at": "2014-08-01T18:16:36.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1430019176161157121/EYP_9X1l_normal.jpg"
+        },
+        {
+            "username": "wtpages",
+            "name": "Within The Pages",
+            "verified": false,
+            "id": "4848513515",
+            "description": "A group of Book Bloggers who love falling within the pages of a great read!",
+            "protected": false,
+            "url": "https://t.co/fHtuhe4N32",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/fHtuhe4N32",
+                            "expanded_url": "http://www.withinthepagesbooks.blogspot.com",
+                            "display_url": "withinthepagesbooks.blogspot.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 153,
+                "following_count": 163,
+                "tweet_count": 344,
+                "listed_count": 4
+            },
+            "created_at": "2016-01-26T06:16:47.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1060283614645157904/n3ln_Sdi_normal.jpg"
+        },
+        {
+            "username": "TheBookBeehive",
+            "name": "The Book Bee",
+            "verified": false,
+            "id": "3820752804",
+            "description": "I’m a happy blogger giving away books, one review at a time.    Facebook page: https://t.co/CB1Fevi2dk\n\nALL links posted are affiliate links!!",
+            "protected": false,
+            "pinned_tweet_id": "1203757191523495936",
+            "url": "https://t.co/N94SGI9QNB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/N94SGI9QNB",
+                            "expanded_url": "http://thebookbeehive.blogspot.com",
+                            "display_url": "thebookbeehive.blogspot.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "start": 79,
+                            "end": 102,
+                            "url": "https://t.co/CB1Fevi2dk",
+                            "expanded_url": "http://www.Facebook.com/BookBeeHive",
+                            "display_url": "Facebook.com/BookBeeHive"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 873,
+                "following_count": 557,
+                "tweet_count": 8067,
+                "listed_count": 22
+            },
+            "created_at": "2015-10-08T02:53:25.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/652942002741383168/Ch7iTXIM_normal.jpg"
+        },
+        {
+            "username": "FMAbookreviews",
+            "name": "Angela Rose",
+            "verified": false,
+            "id": "2479779062",
+            "description": "I love Jesus. I enjoy reading and talking about books. University of Missouri grad",
+            "protected": false,
+            "pinned_tweet_id": "1540159534324400132",
+            "location": "Kansas City, MO",
+            "public_metrics": {
+                "followers_count": 1408,
+                "following_count": 363,
+                "tweet_count": 11864,
+                "listed_count": 29
+            },
+            "created_at": "2014-05-06T12:50:15.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1088240704965492739/ZToKyeJn_normal.jpg"
+        },
+        {
+            "username": "Miss_Meesh2",
+            "name": "Michelle",
+            "verified": false,
+            "id": "501318905",
+            "description": "Foodie. Traveler. Coffee Addict. Book Addict. Book Reviewer & Blogger at Four Chicks Flipping Pages! ❤️",
+            "protected": false,
+            "url": "https://t.co/YhsBhaYtoa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/YhsBhaYtoa",
+                            "expanded_url": "https://www.goodreads.com/user/show/10367112-michelle",
+                            "display_url": "goodreads.com/user/show/1036…"
+                        }
+                    ]
+                }
+            },
+            "location": "Bay Area,California",
+            "public_metrics": {
+                "followers_count": 1269,
+                "following_count": 2036,
+                "tweet_count": 18484,
+                "listed_count": 0
+            },
+            "created_at": "2012-02-24T01:08:16.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1129029908959703040/VO5Hit6T_normal.jpg"
+        },
+        {
+            "username": "AlleskelleBook",
+            "name": "Alleskelle",
+            "verified": false,
+            "id": "4174143262",
+            "description": "",
+            "protected": false,
+            "url": "https://t.co/99T9K8owvs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/99T9K8owvs",
+                            "expanded_url": "http://www.givinglifetomybooks.com",
+                            "display_url": "givinglifetomybooks.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Paris, Ile-de-France",
+            "public_metrics": {
+                "followers_count": 51,
+                "following_count": 138,
+                "tweet_count": 1,
+                "listed_count": 0
+            },
+            "created_at": "2015-11-12T21:16:38.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/664915525865050114/8U-4JY3y_normal.jpg"
+        },
+        {
+            "username": "taccb",
+            "name": "Timitra",
+            "verified": false,
+            "id": "814373521",
+            "description": "Reader. Writer. Lover of all things Romance...",
+            "protected": false,
+            "location": "Trinidad and Tobago",
+            "public_metrics": {
+                "followers_count": 229,
+                "following_count": 558,
+                "tweet_count": 7974,
+                "listed_count": 8
+            },
+            "created_at": "2012-09-10T03:13:24.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/760337812663054336/1o-azF15_normal.jpg"
+        },
+        {
+            "username": "SueBeeonGR",
+            "name": "SueBee★bring me an alpha!★",
+            "verified": false,
+            "id": "2357591761",
+            "description": "Goodreads. Reading-addict. Art-novice. Alpha-groupie. Queen of Shh... Founder & creator of (coming soon)! #SueBee",
+            "protected": false,
+            "pinned_tweet_id": "1477630107951013893",
+            "url": "https://t.co/QP0Cl3UUXn",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/QP0Cl3UUXn",
+                            "expanded_url": "https://linktr.ee/SueBee",
+                            "display_url": "linktr.ee/SueBee"
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [
+                        {
+                            "start": 106,
+                            "end": 113,
+                            "tag": "SueBee"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 2009,
+                "following_count": 1481,
+                "tweet_count": 9661,
+                "listed_count": 25
+            },
+            "created_at": "2014-02-23T06:55:45.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1367288175958183937/JfpA0uYO_normal.jpg"
+        },
+        {
+            "username": "NinaGrinstead",
+            "name": "Nina Grinstead",
+            "verified": false,
+            "id": "2200569672",
+            "description": "Literary Publicist at Valentine PR https://t.co/YKtY4W591k",
+            "protected": false,
+            "url": "https://t.co/jZjgepHKbQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/jZjgepHKbQ",
+                            "expanded_url": "http://www.valentinepr.net",
+                            "display_url": "valentinepr.net"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "start": 35,
+                            "end": 58,
+                            "url": "https://t.co/YKtY4W591k",
+                            "expanded_url": "http://valentinepr.net",
+                            "display_url": "valentinepr.net"
+                        }
+                    ]
+                }
+            },
+            "location": "Macon, GA",
+            "public_metrics": {
+                "followers_count": 3881,
+                "following_count": 1072,
+                "tweet_count": 34863,
+                "listed_count": 72
+            },
+            "created_at": "2013-11-18T03:16:53.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1246276392976818181/FB3KSt7M_normal.jpg"
+        },
+        {
+            "username": "SuzBkJunkie",
+            "name": "Suzanne",
+            "verified": false,
+            "id": "3089585098",
+            "description": "Books are my fix. Romance, ALPHAs, dirty talkers, kickass heroines, suspense, sizzling chemistry and one-of-a-kind soul crushing/reviving reads.",
+            "protected": false,
+            "url": "https://t.co/09bFp81SzF",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/09bFp81SzF",
+                            "expanded_url": "https://www.goodreads.com/user/show/18424676-suzanne",
+                            "display_url": "goodreads.com/user/show/1842…"
+                        }
+                    ]
+                }
+            },
+            "location": "On the back of Isaac's bike",
+            "public_metrics": {
+                "followers_count": 580,
+                "following_count": 485,
+                "tweet_count": 2211,
+                "listed_count": 10
+            },
+            "created_at": "2015-03-12T18:21:46.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/715887334433038336/POMLV38A_normal.jpg"
+        },
+        {
+            "username": "cxcreader",
+            "name": "CC",
+            "verified": false,
+            "id": "3315944355",
+            "description": "\uD83D\uDCD6 Reader \uD83D\uDD8A Reviewer \uD83D\uDCAC Blogger",
+            "protected": false,
+            "url": "https://t.co/6RbUPW70aC",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/6RbUPW70aC",
+                            "expanded_url": "https://craziesrusbookblog.wordpress.com/",
+                            "display_url": "craziesrusbookblog.wordpress.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 335,
+                "following_count": 214,
+                "tweet_count": 4506,
+                "listed_count": 12
+            },
+            "created_at": "2015-06-09T21:40:53.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1130965144161308674/kMVkVHJe_normal.jpg"
+        },
+        {
+            "username": "_StephDeMarco_",
+            "name": "Steph DeMarco",
+            "verified": false,
+            "id": "3003931672",
+            "description": "IG / GR: TheCrazyWorldOfABookLover                                      FB- Steph DeMarco Barsanti / The Crazy World of A Book Lover",
+            "protected": false,
+            "url": "https://t.co/myz430IWaZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/myz430IWaZ",
+                            "expanded_url": "https://thecrazyworldofabooklover.wordpress.com/",
+                            "display_url": "…ecrazyworldofabooklover.wordpress.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 307,
+                "following_count": 345,
+                "tweet_count": 1491,
+                "listed_count": 1
+            },
+            "created_at": "2015-01-28T23:31:29.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/684402615178911744/ZnqjM8mc_normal.jpg"
+        },
+        {
+            "username": "RGBookBlog",
+            "name": "Rude Girl Book Blog",
+            "verified": false,
+            "id": "1252486459",
+            "description": "The role of a writer is not to say what we all can say, but what we are unable to say ~ Anais Nin",
+            "protected": false,
+            "url": "http://t.co/v94EdjUGTp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 22,
+                            "url": "http://t.co/v94EdjUGTp",
+                            "expanded_url": "http://www.rudegirlbookblog.com",
+                            "display_url": "rudegirlbookblog.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 4516,
+                "following_count": 1691,
+                "tweet_count": 5556,
+                "listed_count": 69
+            },
+            "created_at": "2013-03-08T18:53:48.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/443600832877957121/hDhbBUEw_normal.jpeg"
+        },
+        {
+            "username": "TiedupinRomance",
+            "name": "Tied up in Romance",
+            "verified": false,
+            "id": "2833785813",
+            "description": "We are ladies that all share a passion for reading, reviewing and fangirling about authors and book boyfriends together. Email us@ tiedupinromance@gmail.com",
+            "protected": false,
+            "url": "https://t.co/vF4E9fz70s",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/vF4E9fz70s",
+                            "expanded_url": "http://www.tiedupinromance.blogspot.com",
+                            "display_url": "tiedupinromance.blogspot.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Canada/UK/Belgium",
+            "public_metrics": {
+                "followers_count": 1067,
+                "following_count": 311,
+                "tweet_count": 2742,
+                "listed_count": 25
+            },
+            "created_at": "2014-10-16T10:39:15.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/702797357172334593/GsdiKLVY_normal.png"
+        },
+        {
+            "username": "Cal_McDougall",
+            "name": "Cal McDougall",
+            "verified": false,
+            "id": "3308558847",
+            "description": "Photographer",
+            "protected": true,
+            "location": "UK",
+            "public_metrics": {
+                "followers_count": 1051,
+                "following_count": 131,
+                "tweet_count": 353,
+                "listed_count": 3
+            },
+            "created_at": "2015-06-04T19:11:17.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/759916936058671104/WSH0OVCf_normal.jpg"
+        },
+        {
+            "username": "DenaeGibbs",
+            "name": "Denae Gibbs",
+            "verified": false,
+            "id": "578390855",
+            "description": "",
+            "protected": false,
+            "public_metrics": {
+                "followers_count": 167,
+                "following_count": 611,
+                "tweet_count": 684,
+                "listed_count": 7
+            },
+            "created_at": "2012-05-12T20:58:35.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/776065502821036032/9exJuKMI_normal.jpg"
+        },
+        {
+            "username": "RelentRomance",
+            "name": "Relentless Romance",
+            "verified": false,
+            "id": "4194131331",
+            "description": "She Who Reads Infinitely.",
+            "protected": false,
+            "url": "https://t.co/Kcsa6EhB3L",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/Kcsa6EhB3L",
+                            "expanded_url": "https://www.relentlessromance.com",
+                            "display_url": "relentlessromance.com"
+                        }
+                    ]
+                }
+            },
+            "location": "London, England",
+            "public_metrics": {
+                "followers_count": 1580,
+                "following_count": 500,
+                "tweet_count": 3493,
+                "listed_count": 20
+            },
+            "created_at": "2015-11-15T13:29:00.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1091051045965434880/8IBSEPAn_normal.jpg"
+        },
+        {
+            "username": "kimjwilson11",
+            "name": "Kim Bailey",
+            "verified": false,
+            "id": "246587373",
+            "description": "#Dreamer #CoffeeLover #SarcasmJunkie #ExaggeratorExtraordinaire",
+            "protected": false,
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "start": 0,
+                            "end": 8,
+                            "tag": "Dreamer"
+                        },
+                        {
+                            "start": 9,
+                            "end": 21,
+                            "tag": "CoffeeLover"
+                        },
+                        {
+                            "start": 22,
+                            "end": 36,
+                            "tag": "SarcasmJunkie"
+                        },
+                        {
+                            "start": 37,
+                            "end": 63,
+                            "tag": "ExaggeratorExtraordinaire"
+                        }
+                    ]
+                }
+            },
+            "location": "Canada",
+            "public_metrics": {
+                "followers_count": 1111,
+                "following_count": 791,
+                "tweet_count": 5809,
+                "listed_count": 22
+            },
+            "created_at": "2011-02-03T02:09:08.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1490074160432828421/nyGE56Mb_normal.jpg"
+        },
+        {
+            "username": "BookBeautyBless",
+            "name": "BooksBeauty&Blessings",
+            "verified": false,
+            "id": "58896349",
+            "description": "Book, Beauty and Everyday Blessings Reviewer and Blogger",
+            "protected": false,
+            "url": "https://t.co/51qEg9m74U",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/51qEg9m74U",
+                            "expanded_url": "http://www.booksbeautyandblessings.com",
+                            "display_url": "booksbeautyandblessings.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 669,
+                "following_count": 1112,
+                "tweet_count": 2005,
+                "listed_count": 13
+            },
+            "created_at": "2009-07-21T19:41:59.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1178826691109687296/kXhYy7uY_normal.jpg"
+        },
+        {
+            "username": "bookswagshop",
+            "name": "KinkyGirls",
+            "verified": false,
+            "id": "704055686657925120",
+            "description": "KG, Andrea, Chanté, Jen & Tina\n\uD83D\uDC64\uD83D\uDC54Obey GREY ×BLOGGIN' ain't easy\n×KinkyGirls AFTERDARK™\n×PROMOTIONS @\n×KinkyGirlsBookObsessions@gmail.com\n↓SHOP HERE↓",
+            "protected": false,
+            "url": "https://t.co/x1zyBfhgob",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/x1zyBfhgob",
+                            "expanded_url": "http://cafepress.com/bookswagshop",
+                            "display_url": "cafepress.com/bookswagshop"
+                        }
+                    ]
+                }
+            },
+            "location": "Nashville, TN",
+            "public_metrics": {
+                "followers_count": 868,
+                "following_count": 291,
+                "tweet_count": 5268,
+                "listed_count": 17
+            },
+            "created_at": "2016-02-28T21:28:51.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/883738266574491648/XgHBjYvs_normal.jpg"
+        },
+        {
+            "username": "LaJayOh",
+            "name": "LAURIE ❤️\uD83E\uDDE1\uD83D\uDC9B\uD83D\uDC9A\uD83D\uDC99\uD83D\uDC9C",
+            "verified": false,
+            "id": "2222155579",
+            "description": "I do ❤️ the (kissing) books. Pop Culture. Hockey. A good PBS Mystery. #WearYourMask",
+            "protected": false,
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "start": 70,
+                            "end": 83,
+                            "tag": "WearYourMask"
+                        }
+                    ]
+                }
+            },
+            "location": "DMV",
+            "public_metrics": {
+                "followers_count": 2137,
+                "following_count": 1898,
+                "tweet_count": 39279,
+                "listed_count": 47
+            },
+            "created_at": "2013-11-29T23:15:08.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1353100072343506944/lRLQ_HMK_normal.jpg"
+        },
+        {
+            "username": "love2rantblvrs",
+            "name": "Miri",
+            "verified": false,
+            "id": "3335813956",
+            "description": "A romance book blog about Books, honest Reviews, recommendations, and book sales!",
+            "protected": false,
+            "url": "http://t.co/ttIZYMM45e",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 22,
+                            "url": "http://t.co/ttIZYMM45e",
+                            "expanded_url": "http://love2rantbooklovers.com",
+                            "display_url": "love2rantbooklovers.com"
+                        }
+                    ]
+                }
+            },
+            "location": "California, USA",
+            "public_metrics": {
+                "followers_count": 13,
+                "following_count": 58,
+                "tweet_count": 88,
+                "listed_count": 1
+            },
+            "created_at": "2015-06-19T23:39:56.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/612042787500875777/89ABP0hF_normal.jpg"
+        },
+        {
+            "username": "BookEnthusiast1",
+            "name": "The Book Enthusiast",
+            "verified": false,
+            "id": "955952120",
+            "description": "Where authors & readers meet. TBE is a blog that reads romance & related genres. Authors/bloggers check out our PR services: https://t.co/lsQRdXtpOR",
+            "protected": false,
+            "url": "https://t.co/ZCSYw8uAih",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/ZCSYw8uAih",
+                            "expanded_url": "http://www.thebookenthusiast.net",
+                            "display_url": "thebookenthusiast.net"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "start": 125,
+                            "end": 148,
+                            "url": "https://t.co/lsQRdXtpOR",
+                            "expanded_url": "http://buoniamicipress.com",
+                            "display_url": "buoniamicipress.com"
+                        }
+                    ]
+                }
+            },
+            "location": "United States",
+            "public_metrics": {
+                "followers_count": 15403,
+                "following_count": 1004,
+                "tweet_count": 21575,
+                "listed_count": 184
+            },
+            "created_at": "2012-11-18T18:06:18.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/677663003030986752/7RT1KBe3_normal.jpg"
+        },
+        {
+            "username": "StephanieonGR",
+            "name": "Stéphanie",
+            "verified": false,
+            "id": "2705834911",
+            "description": "Belgian avid and naughty reader. I post about books I love, about authors I adore. Sometimes I post #NSFW pix so follow at your own risk XD",
+            "protected": false,
+            "pinned_tweet_id": "702887046466150402",
+            "url": "https://t.co/vF4E9fz70s",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/vF4E9fz70s",
+                            "expanded_url": "http://www.tiedupinromance.blogspot.com",
+                            "display_url": "tiedupinromance.blogspot.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [
+                        {
+                            "start": 100,
+                            "end": 105,
+                            "tag": "NSFW"
+                        }
+                    ]
+                }
+            },
+            "location": "Belgium",
+            "public_metrics": {
+                "followers_count": 671,
+                "following_count": 186,
+                "tweet_count": 4361,
+                "listed_count": 15
+            },
+            "created_at": "2014-08-04T06:03:05.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/905838013044936705/GKOldIFT_normal.jpg"
+        },
+        {
+            "username": "SaSSigning",
+            "name": "Sexy & Sassy Signing",
+            "verified": false,
+            "id": "2887300469",
+            "description": "#SaSS22 #AuthorSigning July 28-31 Norfolk, VA https://t.co/l5JMAQwtOB #Romance Tickets https://t.co/jN67buSFw4 #Books #Author #Reading #SaSS22",
+            "protected": false,
+            "url": "https://t.co/7Gr4NDOV2H",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/7Gr4NDOV2H",
+                            "expanded_url": "https://www.facebook.com/SASSigning/",
+                            "display_url": "facebook.com/SASSigning/"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "start": 46,
+                            "end": 69,
+                            "url": "https://t.co/l5JMAQwtOB",
+                            "expanded_url": "http://facebook.com/SASSigning",
+                            "display_url": "facebook.com/SASSigning"
+                        },
+                        {
+                            "start": 87,
+                            "end": 110,
+                            "url": "https://t.co/jN67buSFw4",
+                            "expanded_url": "http://bit.ly/SaSS22Tickets",
+                            "display_url": "bit.ly/SaSS22Tickets"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 0,
+                            "end": 7,
+                            "tag": "SaSS22"
+                        },
+                        {
+                            "start": 8,
+                            "end": 22,
+                            "tag": "AuthorSigning"
+                        },
+                        {
+                            "start": 70,
+                            "end": 78,
+                            "tag": "Romance"
+                        },
+                        {
+                            "start": 111,
+                            "end": 117,
+                            "tag": "Books"
+                        },
+                        {
+                            "start": 118,
+                            "end": 125,
+                            "tag": "Author"
+                        },
+                        {
+                            "start": 126,
+                            "end": 134,
+                            "tag": "Reading"
+                        },
+                        {
+                            "start": 135,
+                            "end": 142,
+                            "tag": "SaSS22"
+                        }
+                    ]
+                }
+            },
+            "location": "2022 - Norfolk, VA",
+            "public_metrics": {
+                "followers_count": 853,
+                "following_count": 1781,
+                "tweet_count": 6340,
+                "listed_count": 27
+            },
+            "created_at": "2014-11-21T20:30:14.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1412244450399690759/Dv8KBw5O_normal.jpg"
+        },
+        {
+            "username": "ebonetnoir",
+            "name": "Ebon et Noir",
+            "verified": false,
+            "id": "3599236937",
+            "description": "I am an antiquarian book dealer, author and lover of all things literary. Follow my author twitter account at @khajj. Cheers.",
+            "protected": false,
+            "url": "http://t.co/nhKQpmcQyO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 22,
+                            "url": "http://t.co/nhKQpmcQyO",
+                            "expanded_url": "http://www.ebonnoir.com",
+                            "display_url": "ebonnoir.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "mentions": [
+                        {
+                            "start": 110,
+                            "end": 116,
+                            "username": "khajj"
+                        }
+                    ]
+                }
+            },
+            "location": "New York, USA",
+            "public_metrics": {
+                "followers_count": 200,
+                "following_count": 188,
+                "tweet_count": 557,
+                "listed_count": 5
+            },
+            "created_at": "2015-09-09T14:31:20.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/641620708091543553/w9V8kcTK_normal.jpg"
+        },
+        {
+            "username": "FotographerEric",
+            "name": "EricBattershellPhoto",
+            "verified": false,
+            "id": "926977950",
+            "description": "Freelance photographer based in Ohio available for travel anywhere. \r\npeace.love.fotos.",
+            "protected": false,
+            "url": "https://t.co/AgCzPj18VM",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/AgCzPj18VM",
+                            "expanded_url": "http://www.ericbattershellphotography.com",
+                            "display_url": "ericbattershellphotography.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Uniontown, OHIO",
+            "public_metrics": {
+                "followers_count": 2017,
+                "following_count": 1666,
+                "tweet_count": 33554,
+                "listed_count": 36
+            },
+            "created_at": "2012-11-05T06:11:11.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/805579867479752704/Py0_B1cZ_normal.jpg"
+        },
+        {
+            "username": "OUAPblog",
+            "name": "Once Upon A Page",
+            "verified": false,
+            "id": "3448606307",
+            "description": "We are a blog of like-minded women who love to read, review, and discuss books.",
+            "protected": false,
+            "url": "https://t.co/AkjotwAN7d",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/AkjotwAN7d",
+                            "expanded_url": "http://onceuponapagesites.com",
+                            "display_url": "onceuponapagesites.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 292,
+                "following_count": 309,
+                "tweet_count": 2931,
+                "listed_count": 10
+            },
+            "created_at": "2015-08-26T16:19:01.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1302258004499161088/BnyfGDtL_normal.jpg"
+        },
+        {
+            "username": "mhowardwrites",
+            "name": "Michelle Howard",
+            "verified": false,
+            "id": "1517905818",
+            "description": "lover of beagles. Sci-Fi and Paranormal romance author. #Starbucks addicted, always trying to quit. Go Broncos",
+            "protected": false,
+            "pinned_tweet_id": "1578011861940846595",
+            "url": "https://t.co/cBZp8NUPCY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/cBZp8NUPCY",
+                            "expanded_url": "http://michellehowardwrites.com",
+                            "display_url": "michellehowardwrites.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [
+                        {
+                            "start": 56,
+                            "end": 66,
+                            "tag": "Starbucks"
+                        }
+                    ]
+                }
+            },
+            "location": "Maryland",
+            "public_metrics": {
+                "followers_count": 975,
+                "following_count": 246,
+                "tweet_count": 17508,
+                "listed_count": 69
+            },
+            "created_at": "2013-06-15T00:09:35.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1393289212343033859/hyOu1LlW_normal.jpg"
+        },
+        {
+            "username": "CalindaB1",
+            "name": "Author Calinda B",
+            "verified": false,
+            "id": "331940616",
+            "description": "New York Times Bestselling Author CALINDA B entertains with hot, sexy, and deep love, paranormal fun, suspense, and even a fright or two. Reader Beware!",
+            "protected": false,
+            "url": "http://t.co/EocLYDjxdi",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 22,
+                            "url": "http://t.co/EocLYDjxdi",
+                            "expanded_url": "http://www.calindab.com/",
+                            "display_url": "calindab.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Pacific Northwest",
+            "public_metrics": {
+                "followers_count": 3837,
+                "following_count": 3536,
+                "tweet_count": 25857,
+                "listed_count": 105
+            },
+            "created_at": "2011-07-08T23:44:51.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/2164967574/calindab_normal.jpg"
+        },
+        {
+            "username": "allipalk",
+            "name": "Allison@Rdg Escapade",
+            "verified": false,
+            "id": "261218626",
+            "description": "Blogger, ❤️'s chatting, reviewing, promoting CR, erotica, dark, and MM.",
+            "protected": false,
+            "url": "https://t.co/qO8LqSv64v",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/qO8LqSv64v",
+                            "expanded_url": "https://www.facebook.com/readingescapadeblog?ref=hl",
+                            "display_url": "facebook.com/readingescapad…"
+                        }
+                    ]
+                }
+            },
+            "location": "Michigan, USA",
+            "public_metrics": {
+                "followers_count": 249,
+                "following_count": 217,
+                "tweet_count": 887,
+                "listed_count": 2
+            },
+            "created_at": "2011-03-05T14:05:59.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/641363166086041600/po0R_qN2_normal.jpg"
+        },
+        {
+            "username": "WAJenny",
+            "name": "Jenny from the blog\uD83D\uDCDA\uD83D\uDC3E❣️\uD83C\uDF38\uD83D\uDCDA",
+            "verified": false,
+            "id": "567791056",
+            "description": "\uD835\uDDE5\uD835\uDDF2\uD835\uDDEE\uD835\uDDF1\uD835\uDDF2\uD835\uDDFF \uD835\uDDE5\uD835\uDDF2\uD835\uDE03\uD835\uDDF6\uD835\uDDF2\uD835\uDE04\uD835\uDDF2\uD835\uDDFF \uD835\uDDD5\uD835\uDDF9\uD835\uDDFC\uD835\uDDF4\uD835\uDDF4\uD835\uDDF2\uD835\uDDFF, \uD835\uDDF5\uD835\uDDEE\uD835\uDDF9\uD835\uDDF3 \uD835\uDDFC\uD835\uDDF3 \uD835\uDDE7\uD835\uDDFC\uD835\uDE01\uD835\uDDEE\uD835\uDDF9\uD835\uDDF9\uD835\uDE06\uD835\uDDD5\uD835\uDDFC\uD835\uDDFC\uD835\uDDF8\uD835\uDDF2\uD835\uDDF1\uD835\uDDD5\uD835\uDDF9\uD835\uDDFC\uD835\uDDF4. Nothing beats a good tune, a good book or a good laugh.",
+            "protected": false,
+            "url": "https://t.co/iEhjyrXEU2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iEhjyrXEU2",
+                            "expanded_url": "http://totallybookedblog.com",
+                            "display_url": "totallybookedblog.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Perth",
+            "public_metrics": {
+                "followers_count": 847,
+                "following_count": 1029,
+                "tweet_count": 4579,
+                "listed_count": 13
+            },
+            "created_at": "2012-05-01T02:53:58.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/479256883937558528/aranZxQX_normal.jpeg"
+        },
+        {
+            "username": "ReadLaurenS",
+            "name": "Lauren Stewart (shouldn't be on social media)",
+            "verified": false,
+            "id": "385737830",
+            "description": "Author of paranormal & contemporary romance. Always out of the box - because boxes make me look fat. (she/her)\n\nGet free reads & stuff: https://t.co/68oAD6jqFG",
+            "protected": false,
+            "pinned_tweet_id": "1360731027971346434",
+            "url": "https://t.co/Rwnz4jxEDh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/Rwnz4jxEDh",
+                            "expanded_url": "http://www.LaurenStewartAuthor.com",
+                            "display_url": "LaurenStewartAuthor.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "start": 136,
+                            "end": 159,
+                            "url": "https://t.co/68oAD6jqFG",
+                            "expanded_url": "http://bit.ly/LS_news",
+                            "display_url": "bit.ly/LS_news"
+                        }
+                    ]
+                }
+            },
+            "location": "Northern CA",
+            "public_metrics": {
+                "followers_count": 771,
+                "following_count": 290,
+                "tweet_count": 4027,
+                "listed_count": 30
+            },
+            "created_at": "2011-10-06T01:34:44.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1314270298036862976/6b6EDyG9_normal.jpg"
+        },
+        {
+            "username": "theweeknd",
+            "name": "The Weeknd",
+            "verified": true,
+            "id": "255388236",
+            "description": "dawn FM",
+            "protected": false,
+            "url": "https://t.co/dXdMg09we7",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/dXdMg09we7",
+                            "expanded_url": "https://www.theweeknd.com/tour",
+                            "display_url": "theweeknd.com/tour"
+                        }
+                    ]
+                }
+            },
+            "location": "Toronto, Ontario",
+            "public_metrics": {
+                "followers_count": 16801045,
+                "following_count": 0,
+                "tweet_count": 4708,
+                "listed_count": 9195
+            },
+            "created_at": "2011-02-21T07:45:45.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1539694094187782144/Bzw2QRh__normal.jpg"
+        },
+        {
+            "username": "kricha9",
+            "name": "KShadows",
+            "verified": false,
+            "id": "1087485912",
+            "description": "",
+            "protected": false,
+            "url": "https://t.co/C0t2TEaBzz",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/C0t2TEaBzz",
+                            "expanded_url": "http://www.cafepress.com/bookswagshop",
+                            "display_url": "cafepress.com/bookswagshop"
+                        }
+                    ]
+                }
+            },
+            "location": "Nashville, Tennessee",
+            "public_metrics": {
+                "followers_count": 354,
+                "following_count": 262,
+                "tweet_count": 1724,
+                "listed_count": 6
+            },
+            "created_at": "2013-01-13T23:23:48.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/689145900409708546/iipvphqj_normal.jpg"
+        },
+        {
+            "username": "honey_warren",
+            "name": "Honey Warren",
+            "verified": false,
+            "id": "20684974",
+            "description": "",
+            "protected": false,
+            "public_metrics": {
+                "followers_count": 132,
+                "following_count": 272,
+                "tweet_count": 3122,
+                "listed_count": 6
+            },
+            "created_at": "2009-02-12T15:21:18.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1589710924/image_normal.jpg"
+        },
+        {
+            "username": "RelentlessEliza",
+            "name": "Relentless Eliza",
+            "verified": false,
+            "id": "2462030685",
+            "description": "She who reads Infinitely.",
+            "protected": false,
+            "location": "England ",
+            "public_metrics": {
+                "followers_count": 567,
+                "following_count": 326,
+                "tweet_count": 1709,
+                "listed_count": 11
+            },
+            "created_at": "2014-04-05T09:27:44.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1216487351595171840/ZO2IOmTm_normal.jpg"
+        },
+        {
+            "username": "AmazonKindle",
+            "name": "Kindle",
+            "verified": true,
+            "id": "84249568",
+            "description": "Official Twitter of Amazon Kindle.\nGet a read on your personality. Discover your #Booksona now! \uD83D\uDC47",
+            "protected": false,
+            "pinned_tweet_id": "1590751236667703296",
+            "url": "https://t.co/MsliXKUzWd",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MsliXKUzWd",
+                            "expanded_url": "https://discoveryourbooksona.com/",
+                            "display_url": "discoveryourbooksona.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [
+                        {
+                            "start": 81,
+                            "end": 90,
+                            "tag": "Booksona"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 467950,
+                "following_count": 198,
+                "tweet_count": 9401,
+                "listed_count": 0
+            },
+            "created_at": "2009-10-22T05:32:18.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/922870890701905921/T4hOEwSe_normal.jpg"
+        },
+        {
+            "username": "amazonbooks",
+            "name": "Amazon Books",
+            "verified": true,
+            "id": "14172201",
+            "description": "Editors' picks, author interviews, Best Books of the Month & more.\nGet a read on your personality. Discover your #Booksona now! \uD83D\uDC47",
+            "protected": false,
+            "pinned_tweet_id": "1590751235447177217",
+            "url": "https://t.co/ZWGSMfXPP2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/ZWGSMfXPP2",
+                            "expanded_url": "https://discoveryourbooksona.com/",
+                            "display_url": "discoveryourbooksona.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [
+                        {
+                            "start": 113,
+                            "end": 122,
+                            "tag": "Booksona"
+                        }
+                    ]
+                }
+            },
+            "location": "Seattle, WA",
+            "public_metrics": {
+                "followers_count": 409606,
+                "following_count": 1028,
+                "tweet_count": 12780,
+                "listed_count": 4139
+            },
+            "created_at": "2008-03-18T20:12:58.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1422671514151788547/7gbWJUcC_normal.jpg"
+        },
+        {
+            "username": "PronetoCrushes",
+            "name": "Prone to Crushes",
+            "verified": false,
+            "id": "833406043",
+            "description": "Southern Girl who's a Music Lover, Coffee Drinker, Wannabe Foodie, e-Reader Addict, and Blogger. I am very busy and I'm awesome.",
+            "protected": false,
+            "url": "http://t.co/QINV6OTwTh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 22,
+                            "url": "http://t.co/QINV6OTwTh",
+                            "expanded_url": "http://pronetocrushes.blogspot.com",
+                            "display_url": "pronetocrushes.blogspot.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 546,
+                "following_count": 1004,
+                "tweet_count": 5369,
+                "listed_count": 24
+            },
+            "created_at": "2012-09-19T14:05:22.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/488726917709713409/aAN8JAuK_normal.jpeg"
+        },
+        {
+            "username": "flo_reads",
+            "name": "Flo TheCoffeeAddict",
+            "verified": false,
+            "id": "113940957",
+            "description": "coffee addict, workaholic and book reviewer",
+            "protected": true,
+            "url": "https://t.co/bWzKsEaygC",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/bWzKsEaygC",
+                            "expanded_url": "http://coffeeaddictbooks.blogspot.co.at/",
+                            "display_url": "coffeeaddictbooks.blogspot.co.at"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 477,
+                "following_count": 257,
+                "tweet_count": 1089,
+                "listed_count": 5
+            },
+            "created_at": "2010-02-13T15:00:51.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/681120013760212992/2njYFUFo_normal.png"
+        },
+        {
+            "username": "booksobsessions",
+            "name": "Book ❤️'s Obsession",
+            "verified": false,
+            "id": "2343755868",
+            "description": "We love all things bookish and spreading author love. We escape reality of life one book at a time! What can we say, we are Book Obsessed!  Shera Layn & Kristin",
+            "protected": false,
+            "url": "https://t.co/nTSVJ9kYLy",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/nTSVJ9kYLy",
+                            "expanded_url": "https://www.facebook.com/bookloversobsession",
+                            "display_url": "facebook.com/bookloversobse…"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 2430,
+                "following_count": 575,
+                "tweet_count": 9570,
+                "listed_count": 42
+            },
+            "created_at": "2014-02-14T15:45:12.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/457194405200265216/dQ_lgHHi_normal.jpeg"
+        },
+        {
+            "username": "EJBookPromos",
+            "name": "Enticing Journey",
+            "verified": false,
+            "id": "1876094892",
+            "description": "Enticing Journey Book Promotions is a company authors can trust to help promote their work.\nhttps://t.co/iYeP6fLI2K",
+            "protected": false,
+            "url": "http://t.co/5QZMjoWiqO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 22,
+                            "url": "http://t.co/5QZMjoWiqO",
+                            "expanded_url": "http://www.enticingjourneybookpromotions.com",
+                            "display_url": "enticingjourneybookpromotions.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "start": 92,
+                            "end": 115,
+                            "url": "https://t.co/iYeP6fLI2K",
+                            "expanded_url": "https://linktr.ee/enticingjourney",
+                            "display_url": "linktr.ee/enticingjourney"
+                        }
+                    ]
+                }
+            },
+            "location": "United States",
+            "public_metrics": {
+                "followers_count": 3878,
+                "following_count": 879,
+                "tweet_count": 13986,
+                "listed_count": 67
+            },
+            "created_at": "2013-09-17T16:42:14.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/961181523666972672/sqh0gBdY_normal.jpg"
+        },
+        {
+            "username": "IreneOust",
+            "name": "Irene\uD83C\uDF31",
+            "verified": false,
+            "id": "2333120819",
+            "description": "CEO of my fabulous life. Allergic to fake. F*CK CANCER❗️https://t.co/y7r3A8Odeq \uD83D\uDCF2",
+            "protected": false,
+            "pinned_tweet_id": "1296934953792356358",
+            "url": "https://t.co/pvWj68D1WD",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/pvWj68D1WD",
+                            "expanded_url": "https://www.goodreads.com/IreneOust",
+                            "display_url": "goodreads.com/IreneOust"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "start": 56,
+                            "end": 79,
+                            "url": "https://t.co/y7r3A8Odeq",
+                            "expanded_url": "http://www.instagram.com/IreneOust",
+                            "display_url": "instagram.com/IreneOust"
+                        }
+                    ]
+                }
+            },
+            "location": "In Ben O'Callahan's McLaren",
+            "public_metrics": {
+                "followers_count": 2291,
+                "following_count": 2280,
+                "tweet_count": 39785,
+                "listed_count": 59
+            },
+            "created_at": "2014-02-09T05:02:38.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/468927258669748224/zTHs07j4_normal.jpeg"
+        },
+        {
+            "username": "DDBookLover1",
+            "name": "Deanna PinkLady",
+            "verified": false,
+            "id": "2360140872",
+            "description": "Reader, Reviewer and Lover of books, shoes, purses, champagne and red wine......and a really good filthy dirty martini!!!",
+            "protected": false,
+            "public_metrics": {
+                "followers_count": 2227,
+                "following_count": 1163,
+                "tweet_count": 15743,
+                "listed_count": 61
+            },
+            "created_at": "2014-02-24T23:07:31.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/438095954810384384/WreoJp4f_normal.jpeg"
+        },
+        {
+            "username": "JxPinkLady",
+            "name": "bookwormthoughts",
+            "verified": false,
+            "id": "1193301476",
+            "description": "#bookaddict",
+            "protected": false,
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "start": 0,
+                            "end": 11,
+                            "tag": "bookaddict"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 1755,
+                "following_count": 632,
+                "tweet_count": 19222,
+                "listed_count": 57
+            },
+            "created_at": "2013-02-18T14:15:31.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1006282560148852737/gcFKGLN8_normal.jpg"
+        },
+        {
+            "username": "alleskelle",
+            "name": "Alleskelle ✦ that ranting lady ✦",
+            "verified": false,
+            "id": "2731768864",
+            "description": "Hi, I'm Alexandra, I blog but mostly read✧romance✧at https://t.co/GBhJZwIacf #ISpeakFrenchFries \uD83C\uDDEB\uD83C\uDDF7\uD83C\uDF5F Charcuterie Defender ▫︎ Cancer Survivor ▫︎ Oxygen Fueled \uD83E\uDEC1",
+            "protected": false,
+            "url": "https://t.co/gDpb4dnc7r",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/gDpb4dnc7r",
+                            "expanded_url": "http://www.alleskelle.com",
+                            "display_url": "alleskelle.com"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "start": 53,
+                            "end": 76,
+                            "url": "https://t.co/GBhJZwIacf",
+                            "expanded_url": "http://alleskelle.com",
+                            "display_url": "alleskelle.com"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 77,
+                            "end": 95,
+                            "tag": "ISpeakFrenchFries"
+                        }
+                    ]
+                }
+            },
+            "location": "Romancelandia, land of the HEA",
+            "public_metrics": {
+                "followers_count": 1012,
+                "following_count": 831,
+                "tweet_count": 5565,
+                "listed_count": 21
+            },
+            "created_at": "2014-08-02T17:10:01.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1589353742113144836/mOAMrfXo_normal.jpg"
+        },
+        {
+            "username": "theVrsha",
+            "name": "Vrsha Prose",
+            "verified": false,
+            "id": "2772596281",
+            "description": "Hi I'm Vrsha. I review at Peek At My Book Review blog.",
+            "protected": false,
+            "url": "http://t.co/J5K1QpiXGo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 22,
+                            "url": "http://t.co/J5K1QpiXGo",
+                            "expanded_url": "http://peekatmybookreview.blogspot.com/",
+                            "display_url": "peekatmybookreview.blogspot.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 407,
+                "following_count": 0,
+                "tweet_count": 1366,
+                "listed_count": 10
+            },
+            "created_at": "2014-08-27T06:57:02.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/532094574328422401/2MMyzq70_normal.jpeg"
+        },
+        {
+            "username": "Gitte101",
+            "name": "\uD83C\uDDE9\uD83C\uDDF0Gitte\uD83C\uDFF4\uDB40\uDC67\uDB40\uDC62\uDB40\uDC65\uDB40\uDC6E\uDB40\uDC67\uDB40\uDC7F\uD83D\uDCDA#YNWA⚽️",
+            "verified": false,
+            "id": "303696340",
+            "description": "Sarcastic Coffee Addict, Reader & Book Reviewer on TotallyBookedBlog",
+            "protected": false,
+            "url": "https://t.co/yznPzqYoYC",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/yznPzqYoYC",
+                            "expanded_url": "http://totallybookedblog.com/",
+                            "display_url": "totallybookedblog.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 1864,
+                "following_count": 2133,
+                "tweet_count": 25888,
+                "listed_count": 38
+            },
+            "created_at": "2011-05-23T09:01:37.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1579897175722557440/VeHGd5sj_normal.jpg"
+        },
+        {
+            "username": "AmraAndBooks",
+            "name": "Amra @ YA Sh3lf",
+            "verified": false,
+            "id": "352550449",
+            "description": "Book blogger and bookstagramer.\nGlass.",
+            "protected": false,
+            "url": "https://t.co/5ASHW9nnZa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/5ASHW9nnZa",
+                            "expanded_url": "http://www.yash3lf.com/",
+                            "display_url": "yash3lf.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Sarajevo",
+            "public_metrics": {
+                "followers_count": 940,
+                "following_count": 555,
+                "tweet_count": 11218,
+                "listed_count": 30
+            },
+            "created_at": "2011-08-10T19:42:49.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/433884968335736832/wUpQwz9E_normal.jpeg"
+        },
+        {
+            "username": "AftDarkBkLovers",
+            "name": "Grace",
+            "verified": false,
+            "id": "2532404185",
+            "description": "Book blog for romance lovers. https://t.co/T2rc5crfRL. Follow us on FB and IG. SHORTIES: Grace*Yaya*Ivy*Rachel*Miri",
+            "protected": false,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "start": 30,
+                            "end": 53,
+                            "url": "https://t.co/T2rc5crfRL",
+                            "expanded_url": "http://afterdarkbooklovers.com",
+                            "display_url": "afterdarkbooklovers.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 1020,
+                "following_count": 458,
+                "tweet_count": 11535,
+                "listed_count": 25
+            },
+            "created_at": "2014-05-29T10:38:57.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/734482490010787841/xM3zZNC7_normal.jpg"
+        },
+        {
+            "username": "TLSmitsky",
+            "name": "TeriLyn Reviews",
+            "verified": false,
+            "id": "1225024027",
+            "description": "Reader. Reviewer. Beta.                   Lover. Sinner. Joker. Smoker. Midnight Toker.",
+            "protected": false,
+            "location": "Gotham City",
+            "public_metrics": {
+                "followers_count": 2609,
+                "following_count": 1774,
+                "tweet_count": 37832,
+                "listed_count": 136
+            },
+            "created_at": "2013-02-27T14:05:57.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/822466420147703808/Rg-YAvQJ_normal.jpg"
+        },
+        {
+            "username": "CraziesRus",
+            "name": "CraziesRus Book Blog",
+            "verified": false,
+            "id": "1460922271",
+            "description": "",
+            "protected": false,
+            "url": "https://t.co/h7R0AXbE98",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/h7R0AXbE98",
+                            "expanded_url": "http://www.craziesrusbookblog.wordpress.com",
+                            "display_url": "craziesrusbookblog.wordpress.com"
+                        }
+                    ]
+                }
+            },
+            "public_metrics": {
+                "followers_count": 1225,
+                "following_count": 383,
+                "tweet_count": 6606,
+                "listed_count": 12
+            },
+            "created_at": "2013-05-27T00:01:35.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1257478525025546240/2UTR5ij3_normal.png"
+        },
+        {
+            "username": "amanda_leejh",
+            "name": "Amanda Lee",
+            "verified": false,
+            "id": "433758527",
+            "description": "She/Her\nI \uD83D\uDC96 \uD83D\uDCDA",
+            "protected": false,
+            "public_metrics": {
+                "followers_count": 395,
+                "following_count": 1379,
+                "tweet_count": 5062,
+                "listed_count": 15
+            },
+            "created_at": "2011-12-11T00:10:21.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/986777416012939264/7n5AQ8HV_normal.jpg"
+        },
+        {
+            "username": "melissa_reads",
+            "name": "Melissa",
+            "verified": false,
+            "id": "320354766",
+            "description": "23yrs. Obsessed with food, bands, makeup and travelling \uD83D\uDC95",
+            "protected": false,
+            "url": "https://t.co/h9ZfTCvRJI",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/h9ZfTCvRJI",
+                            "expanded_url": "http://inabookishworld.wordpress.com",
+                            "display_url": "inabookishworld.wordpress.com"
+                        }
+                    ]
+                }
+            },
+            "location": "Belgium",
+            "public_metrics": {
+                "followers_count": 265,
+                "following_count": 116,
+                "tweet_count": 7241,
+                "listed_count": 22
+            },
+            "created_at": "2011-06-19T19:23:08.000Z",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/893763643959070720/ltvq39kz_normal.jpg"
+        }
+    ],
+    "meta": {
+        "result_count": 100,
+        "next_token": "OGDGCGOVUBHH8ZZZ"
+    }
+}
